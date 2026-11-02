@@ -1,7 +1,9 @@
+import type { EverythingResponse, SourcesResponse } from '../../models/response';
+import type { ResponseCallback } from './loader';
 import AppLoader from './appLoader';
 
 class AppController extends AppLoader {
-    getSources(callback) {
+    getSources(callback: ResponseCallback<SourcesResponse>): void {
         super.getResp(
             {
                 endpoint: 'sources',
@@ -10,14 +12,20 @@ class AppController extends AppLoader {
         );
     }
 
-    getNews(e, callback) {
-        let target = e.target;
+    getNews(e: MouseEvent, callback: ResponseCallback<EverythingResponse>): void {
         const newsContainer = e.currentTarget;
 
-        while (target !== newsContainer) {
-            if (target.classList.contains('source__item')) {
+        if (!(newsContainer instanceof Element)) {
+            return;
+        }
+
+        let target: Node | null = e.target instanceof Node ? e.target : null;
+
+        while (target && target !== newsContainer) {
+            if (target instanceof Element && target.classList.contains('source__item')) {
                 const sourceId = target.getAttribute('data-source-id');
-                if (newsContainer.getAttribute('data-source') !== sourceId) {
+
+                if (sourceId !== null && newsContainer.getAttribute('data-source') !== sourceId) {
                     newsContainer.setAttribute('data-source', sourceId);
                     super.getResp(
                         {

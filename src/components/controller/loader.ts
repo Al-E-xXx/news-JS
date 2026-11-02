@@ -3,7 +3,7 @@ type QueryParams = Record<string, QueryValue>;
 
 type HttpMethod = 'GET' | 'POST';
 
-type ResponseCallback<TResponse> = (data: TResponse) => void;
+export type ResponseCallback<TResponse> = (data: TResponse) => void;
 
 interface GetRequest {
     endpoint: string;
