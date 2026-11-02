@@ -19,6 +19,17 @@ class Sources {
         mustFind(document, '.sources').append(fragment);
     }
 
+    // highlight the button whose news is currently shown (the controller keeps
+    // the chosen id in the data-source attribute of the sources container)
+    setActive(): void {
+        const container = mustFind(document, '.sources');
+        const activeId = container.getAttribute('data-source');
+
+        container.querySelectorAll('.source__item').forEach((item) => {
+            item.classList.toggle('is-active', item.getAttribute('data-source-id') === activeId);
+        });
+    }
+
     clear(): void {
         mustFind(document, '.sources').textContent = '';
     }

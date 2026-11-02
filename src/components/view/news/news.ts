@@ -6,15 +6,30 @@ class News {
     draw(articles: Article[]): void {
         const news = articles.length >= 10 ? articles.filter((_item, idx) => idx < 10) : articles;
 
+        const newsContainer = mustFind(document, '.news');
+        newsContainer.innerHTML = '';
+
+        if (news.length === 0) {
+            const empty = document.createElement('div');
+            empty.className = 'news__empty';
+            empty.textContent = 'No news available for this source';
+            newsContainer.append(empty);
+            return;
+        }
+
         const fragment = document.createDocumentFragment();
         const newsItemTemp = mustFind<HTMLTemplateElement>(document, '#newsItemTemp');
 
         news.forEach((item) => {
             const newsClone = newsItemTemp.content.cloneNode(true) as DocumentFragment;
 
-            mustFind(newsClone, '.news__meta-photo').style.backgroundImage = `url(${
-                item.urlToImage || 'img/news_placeholder.jpg'
-            })`;
+            const photo = mustFind(newsClone, '.news__meta-photo');
+
+            if (item.urlToImage) {
+                photo.style.backgroundImage = `url("${item.urlToImage.replace(/"/g, '%22')}")`;
+            } else {
+                photo.classList.add('is-missing');
+            }
             mustFind(newsClone, '.news__meta-author').textContent = item.author || item.source.name;
             mustFind(newsClone, '.news__meta-date').textContent = item.publishedAt
                 .slice(0, 10)
@@ -30,8 +45,6 @@ class News {
             fragment.append(newsClone);
         });
 
-        const newsContainer = mustFind(document, '.news');
-        newsContainer.innerHTML = '';
         newsContainer.appendChild(fragment);
     }
 

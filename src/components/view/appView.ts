@@ -17,6 +17,10 @@ export class AppView {
         this.sources.draw(values);
     }
 
+    setActiveSource(): void {
+        this.sources.setActive();
+    }
+
     clear(): void {
         this.news.clear();
         this.sources.clear();

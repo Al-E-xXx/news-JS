@@ -9,9 +9,10 @@ class App {
     private readonly view = new AppView();
 
     start(): void {
-        mustFind(document, '.sources').addEventListener('click', (e) =>
-            this.controller.getNews(e, (data) => this.view.drawNews(data))
-        );
+        mustFind(document, '.sources').addEventListener('click', (e) => {
+            this.controller.getNews(e, (data) => this.view.drawNews(data));
+            this.view.setActiveSource();
+        });
 
         this.initModeSwitch();
         this.loadMode();

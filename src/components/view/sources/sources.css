@@ -25,7 +25,8 @@
 }
 
 .source__item:hover,
-.source__item:focus {
+.source__item:focus,
+.source__item.is-active {
     border-color: #3fcc59;
     color: #69db7e;
     box-shadow: 0 0.5em 0.5em -0.4em #3fcc59;
