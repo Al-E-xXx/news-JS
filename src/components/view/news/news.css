@@ -1,14 +1,20 @@
+/* masonry card layout: browser-sized columns, dense packing with even gaps */
+.news {
+    column-width: 320px;
+    column-gap: 20px;
+}
+
 .news__item {
     display: flex;
     flex-direction: column;
-    margin: 1rem auto;
-    margin-bottom: 1.6%;
+    margin: 0 0 20px;
     background: #fff;
     color: #333;
     line-height: 1.4;
     font-family: Arial, sans-serif;
     border-radius: 5px;
     overflow: hidden;
+    break-inside: avoid;
 }
 
 .news__item:hover .news__meta-photo {
@@ -119,48 +125,4 @@
 
 .news__item:hover .news__meta-details {
     left: 0%;
-}
-
-@media (min-width: 640px) {
-    .news__item {
-        flex-direction: row;
-        max-width: 700px;
-    }
-
-    .news__item .news__meta {
-        flex-basis: 40%;
-        height: auto;
-    }
-
-    .news__item .news__description {
-        flex-basis: 60%;
-    }
-
-    .news__item .news__description:before {
-        -webkit-transform: skewX(-3deg);
-        transform: skewX(-3deg);
-        content: '';
-        background: #fff;
-        width: 30px;
-        position: absolute;
-        left: -10px;
-        top: 0;
-        bottom: 0;
-        z-index: -1;
-    }
-
-    .news__item.alt {
-        flex-direction: row-reverse;
-    }
-
-    .news__item.alt .news__description:before {
-        left: inherit;
-        right: -10px;
-        -webkit-transform: skew(3deg);
-        transform: skew(3deg);
-    }
-
-    .news__item.alt .news__meta-details {
-        padding-left: 25px;
-    }
 }
