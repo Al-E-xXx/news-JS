@@ -1,8 +1,12 @@
 import type { EverythingResponse, SourcesResponse } from '../../models/response';
 import type { ResponseCallback } from './loader';
-import AppLoader from './appLoader';
+import AppLoader, { type DataMode } from './appLoader';
 
 class AppController extends AppLoader {
+    constructor(mode: DataMode = 'demo') {
+        super(mode);
+    }
+
     getSources(callback: ResponseCallback<SourcesResponse>): void {
         super.getResp(
             {

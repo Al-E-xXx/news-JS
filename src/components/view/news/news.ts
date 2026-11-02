@@ -36,6 +36,10 @@ class News {
         newsContainer.innerHTML = '';
         newsContainer.appendChild(fragment);
     }
+
+    clear(): void {
+        mustFind(document, '.news').textContent = '';
+    }
 }
 
 export default News;

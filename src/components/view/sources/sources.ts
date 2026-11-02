@@ -18,6 +18,10 @@ class Sources {
 
         mustFind(document, '.sources').append(fragment);
     }
+
+    clear(): void {
+        mustFind(document, '.sources').textContent = '';
+    }
 }
 
 export default Sources;

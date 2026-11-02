@@ -14,8 +14,15 @@ module.exports = {
     },
     plugins: [
         new webpack.DefinePlugin({
-            'process.env.API_URL': JSON.stringify('mocks/'),
-            'process.env.API_KEY': JSON.stringify('mock'),
+            // demo data is always available; mocks/ files are served without
+            // extension, exactly like the loader requests
+            'process.env.API_MOCK_URL': JSON.stringify('mocks/'),
+            'process.env.API_URL': JSON.stringify(process.env.API_URL ?? 'https://newsapi.org/v2/'),
+            // live api is disabled at build time in this mode
+            'process.env.API_LIVE_AVAILABLE': JSON.stringify('false'),
+            // empty placeholder, so no unsubstituted process.env reference or
+            // real secret can ever appear in the public bundle
+            'process.env.API_KEY': JSON.stringify(''),
         }),
         new CopyWebpackPlugin({
             patterns: [

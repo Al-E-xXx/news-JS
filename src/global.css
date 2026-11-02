@@ -5,12 +5,116 @@ body {
 }
 
 header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px 24px;
     padding: 10px 30px;
 }
 
 header h1 {
+    margin: 0;
     font-size: 40px;
     font-weight: 800;
+}
+
+/* demo/live data mode switch */
+.mode-switch {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    user-select: none;
+    font-size: 14px;
+    color: #b9c6d1;
+}
+
+.mode-switch input {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+.mode-switch__track {
+    position: relative;
+    display: inline-block;
+    width: 44px;
+    height: 24px;
+    border-radius: 12px;
+    background-color: #3a4654;
+    transition: background-color 0.2s ease;
+}
+
+.mode-switch__thumb {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+    transition: transform 0.2s ease;
+}
+
+.mode-switch input:checked + .mode-switch__track {
+    background-color: #4077a6;
+}
+
+.mode-switch input:checked + .mode-switch__track .mode-switch__thumb {
+    transform: translateX(20px);
+}
+
+.mode-switch input:focus-visible + .mode-switch__track {
+    outline: 2px solid #4077a6;
+    outline-offset: 2px;
+}
+
+/* modal window shown when live api is not available in this build */
+.modal {
+    width: min(480px, 90vw);
+    padding: 24px 28px;
+    border: none;
+    border-radius: 8px;
+    background-color: #ffffff;
+    color: #282828;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.5);
+}
+
+.modal::backdrop {
+    background-color: rgba(10, 12, 16, 0.65);
+}
+
+.modal__title {
+    margin: 0 0 12px;
+    font-size: 18px;
+}
+
+.modal__text {
+    margin: 0 0 20px;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #4e5d6b;
+}
+
+.modal__close-btn {
+    padding: 8px 24px;
+    border: none;
+    border-radius: 4px;
+    background-color: #1e3953;
+    color: #ffffff;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.modal__close-btn:hover {
+    background-color: #4077a6;
 }
 
 footer {

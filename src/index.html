@@ -9,6 +9,12 @@
     <body>
         <header>
             <h1>News Portal</h1>
+            <label class="mode-switch">
+                <span class="mode-switch__label">Demo data</span>
+                <input type="checkbox" id="dataModeToggle" role="switch" />
+                <span class="mode-switch__track"><span class="mode-switch__thumb"></span></span>
+                <span class="mode-switch__label">Live API</span>
+            </label>
         </header>
         <main>
             <div class="sources buttons"></div>
@@ -45,5 +51,16 @@
                 </div>
             </div>
         </template>
+
+        <dialog id="liveApiDialog" class="modal">
+            <h2 class="modal__title">Live API is not available in this build</h2>
+            <p class="modal__text">
+                The real News API works only on a locally started development server
+                (localhost). The deployed version runs on static demo data, because the
+                NewsAPI free plan rejects requests from public origins and would require
+                exposing the secret key in the public bundle.
+            </p>
+            <button type="button" id="liveApiClose" class="modal__close-btn">Close</button>
+        </dialog>
     </body>
 </html>
