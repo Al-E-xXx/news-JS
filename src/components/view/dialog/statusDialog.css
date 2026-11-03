@@ -1,0 +1,80 @@
+.status-dialog {
+    width: min(480px, calc(100vw - 32px));
+    padding: 24px 28px;
+    border: 1px solid #2c3540;
+    border-radius: 8px;
+    background-color: #1e222a;
+    color: #e8edf2;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.55);
+}
+
+.status-dialog::backdrop {
+    background-color: rgba(10, 12, 16, 0.7);
+    backdrop-filter: blur(2px);
+}
+
+.status-dialog__text {
+    margin: 0 0 20px;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.status-dialog.is-loading {
+    text-align: center;
+}
+
+.status-dialog.is-loading .status-dialog__actions {
+    justify-content: center;
+}
+
+.status-dialog__spinner {
+    display: none;
+    width: 40px;
+    height: 40px;
+    margin: 0 auto 16px;
+    border: 3px solid rgba(255, 255, 255, 0.15);
+    border-top-color: #4d8ec9;
+    border-radius: 50%;
+    animation: status-dialog-spin 0.9s linear infinite;
+}
+
+.status-dialog.is-loading .status-dialog__spinner {
+    display: block;
+}
+
+@keyframes status-dialog-spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .status-dialog__spinner {
+        animation-duration: 2s;
+    }
+}
+
+.status-dialog__actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.status-dialog__button {
+    padding: 8px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #1e3953;
+    color: #ffffff;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.status-dialog__button:hover {
+    background-color: #4077a6;
+}
+
+.status-dialog__button[hidden] {
+    display: none;
+}
