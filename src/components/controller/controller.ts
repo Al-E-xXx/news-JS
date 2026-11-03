@@ -7,8 +7,8 @@ class AppController extends AppLoader {
         super(mode);
     }
 
-    getSources(callback: ResponseCallback<SourcesResponse>): void {
-        super.getResp(
+    getSources(callback: ResponseCallback<SourcesResponse>): Promise<void> {
+        return super.getResp(
             {
                 endpoint: 'sources',
             },
@@ -16,11 +16,11 @@ class AppController extends AppLoader {
         );
     }
 
-    getNews(e: MouseEvent, callback: ResponseCallback<EverythingResponse>): void {
+    getNews(e: MouseEvent, callback: ResponseCallback<EverythingResponse>): Promise<void> {
         const newsContainer = e.currentTarget;
 
         if (!(newsContainer instanceof Element)) {
-            return;
+            return Promise.resolve();
         }
 
         let target: Node | null = e.target instanceof Node ? e.target : null;
@@ -29,22 +29,43 @@ class AppController extends AppLoader {
             if (target instanceof Element && target.classList.contains('source__item')) {
                 const sourceId = target.getAttribute('data-source-id');
 
-                if (sourceId !== null && newsContainer.getAttribute('data-source') !== sourceId) {
+                if (sourceId !== null) {
                     newsContainer.setAttribute('data-source', sourceId);
-                    super.getResp(
+                    return super.getResp(
                         {
                             endpoint: 'everything',
                             options: {
                                 sources: sourceId,
+                                pageSize: 20,
                             },
                         },
-                        callback
+                        this.newsOfSource(sourceId, callback)
                     );
                 }
-                return;
+
+                return Promise.resolve();
             }
+
             target = target.parentNode;
         }
+
+        console.log('Selected sources not detected');
+        return Promise.resolve();
+    }
+
+    private newsOfSource(
+        sourceId: string,
+        callback: ResponseCallback<EverythingResponse>
+    ): ResponseCallback<EverythingResponse> {
+        if (this.mode !== 'demo') {
+            return callback;
+        }
+
+        return (data) =>
+            callback({
+                ...data,
+                articles: (data.articles ?? []).filter((article) => article.source.id === sourceId),
+            });
     }
 }
 

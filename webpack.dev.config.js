@@ -1,7 +1,11 @@
 const path = require('path');
 const webpack = require('webpack');
-const DotenvWebpackPlugin = require('dotenv-webpack');
+const { config: loadEnv } = require('dotenv');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
+
+const { apiDefines } = require('./webpack.api-env');
+
+const apiKey = loadEnv().parsed?.API_KEY ?? '';
 
 module.exports = {
     mode: 'development',
@@ -10,14 +14,9 @@ module.exports = {
         static: path.resolve(__dirname, './dist'),
     },
     plugins: [
-        new DotenvWebpackPlugin(),
-        // serve mocks on dev server too, so demo mode works locally as well
         new CopyWebpackPlugin({
             patterns: [{ from: 'mocks/*.json', to: 'mocks/[name]' }],
         }),
-        new webpack.DefinePlugin({
-            'process.env.API_MOCK_URL': JSON.stringify('mocks/'),
-            'process.env.API_LIVE_AVAILABLE': JSON.stringify('true'),
-        }),
+        new webpack.DefinePlugin(apiDefines({ apiKey })),
     ],
 };

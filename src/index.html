@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
     <head>
         <meta charset="utf-8" />
@@ -28,8 +28,16 @@
             <p class="footer__credits">
                 News data by <a href="https://newsapi.org" target="_blank" rel="noopener noreferrer">NewsAPI</a>
             </p>
-            <a class="footer__rss-logo" href="https://rs.school/courses/javascript" target="_blank" rel="noopener noreferrer">
-                <img src="https://rs.school/_next/static/media/rss-logo.c19ce1b4.svg" alt="RSSchool JavaScript course" />
+            <a
+                class="footer__rss-logo"
+                href="https://rs.school/courses/javascript"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <img
+                    src="https://rs.school/_next/static/media/rss-logo.c19ce1b4.svg"
+                    alt="RSSchool JavaScript course"
+                />
             </a>
         </footer>
 
@@ -59,15 +67,13 @@
             </div>
         </template>
 
-        <dialog id="liveApiDialog" class="modal">
-            <h2 class="modal__title">Live API is not available in this build</h2>
-            <p class="modal__text">
-                The real News API works only on a locally started development server
-                (localhost). The deployed version runs on static demo data, because the
-                NewsAPI free plan rejects requests from public origins and would require
-                exposing the secret key in the public bundle.
-            </p>
-            <button type="button" id="liveApiClose" class="modal__close-btn">Close</button>
+        <dialog id="statusDialog" class="status-dialog" aria-labelledby="statusDialogText">
+            <div class="status-dialog__spinner" aria-hidden="true"></div>
+            <p class="status-dialog__text" id="statusDialogText">Loading...</p>
+            <div class="status-dialog__actions">
+                <button type="button" class="status-dialog__button" data-action="retry" hidden>Try again</button>
+                <button type="button" class="status-dialog__button" data-action="close">Close</button>
+            </div>
         </dialog>
     </body>
 </html>

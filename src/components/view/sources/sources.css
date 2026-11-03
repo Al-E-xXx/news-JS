@@ -6,7 +6,9 @@
     width: 100%;
     padding-block: 10px;
     align-items: center;
-    font: 300 1em 'Fira Sans', sans-serif;
+    font:
+        300 1em 'Fira Sans',
+        sans-serif;
 }
 
 .source__item {

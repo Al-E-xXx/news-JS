@@ -1,3 +1,5 @@
+import TimeoutSignal from './timeoutSignal';
+
 type QueryValue = string | number | boolean;
 type QueryParams = Record<string, QueryValue>;
 
@@ -9,6 +11,18 @@ interface GetRequest {
     endpoint: string;
     options?: QueryParams;
 }
+
+export class LoadError extends Error {
+    constructor(
+        message: string,
+        readonly status?: number
+    ) {
+        super(message);
+        this.name = 'LoadError';
+    }
+}
+
+const REQUEST_TIMEOUT_MS = 8_000;
 
 enum HttpErrorStatus {
     Unauthorized = 401,
@@ -26,43 +40,66 @@ class Loader {
         callback: ResponseCallback<TResponse> = () => {
             console.error('No callback for GET response');
         }
-    ): void {
-        this.load('GET', endpoint, callback, options);
+    ): Promise<void> {
+        return this.load('GET', endpoint, callback, options);
     }
 
-    errorHandler(res: Response): Response {
-        if (!res.ok) {
-            if (res.status === HttpErrorStatus.Unauthorized || res.status === HttpErrorStatus.NotFound) {
-                console.log(`Sorry, but there is ${res.status} error: ${res.statusText}`);
-            }
-            throw Error(res.statusText);
+    errorHandler(res: Response): void {
+        if (res.ok) {
+            return;
         }
 
-        return res;
+        if (res.status === HttpErrorStatus.Unauthorized || res.status === HttpErrorStatus.NotFound) {
+            console.log(`Sorry, but there is ${res.status} error - check the request and the api key`);
+        }
+
+        throw new LoadError(`Request failed with status ${res.status}`, res.status);
     }
 
-    makeUrl(options: QueryParams, endpoint: string): string {
-        const urlOptions: QueryParams = { ...this.options, ...options };
-        let url = `${this.baseLink}${endpoint}?`;
+    private makeQuery(options: QueryParams): string {
+        const queryParams: string[] = [];
 
-        Object.keys(urlOptions).forEach((key) => {
-            url += `${key}=${urlOptions[key]}&`;
-        });
+        for (const key in options) {
+            queryParams.push(`${key}=${encodeURIComponent(String(options[key]))}`);
+        }
 
-        return url.slice(0, -1);
+        return queryParams.length === 0 ? '' : `?${queryParams.join('&')}`;
     }
 
-    load<TResponse>(
+    private async load<TResponse>(
         method: HttpMethod,
         endpoint: string,
         callback: ResponseCallback<TResponse>,
-        options: QueryParams = {}
-    ): void {
-        fetch(this.makeUrl(options, endpoint), { method })
-            .then(this.errorHandler)
-            .then((res) => res.json() as Promise<TResponse>)
-            .then((data) => callback(data))
-            .catch((err: unknown) => console.error(err));
+        options: QueryParams
+    ): Promise<void> {
+        const url = `${this.baseLink}${endpoint}${this.makeQuery({ ...this.options, ...options })}`;
+        const timeout = new TimeoutSignal(REQUEST_TIMEOUT_MS);
+
+        try {
+            const response = await fetch(url, {
+                method,
+                headers: {
+                    'Content-Type': 'application/json;charset=utf-8',
+                },
+                body: method === 'POST' ? JSON.stringify({ ...this.options, ...options }) : null,
+                signal: timeout.signal,
+            });
+
+            this.errorHandler(response);
+            callback((await response.json()) as TResponse);
+        } catch (error) {
+            if (error instanceof LoadError) {
+                throw error;
+            }
+
+            const reason = timeout.timedOut
+                ? `Request timed out after ${REQUEST_TIMEOUT_MS} ms`
+                : 'Request failed: server is not reachable';
+            console.error(`Failed to load ${url}`, reason);
+            throw new LoadError(reason);
+        } finally {
+            timeout.dispose();
+        }
     }
 }
 

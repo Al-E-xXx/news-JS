@@ -35,8 +35,6 @@ const baseConfig = {
     ],
 };
 
-// Each env config supplies its own API credentials strategy:
-// dev/prod read .env via dotenv-webpack, gh builds a static demo from local mocks.
 const envConfigFiles = {
     dev: './webpack.dev.config',
     prod: './webpack.prod.config',

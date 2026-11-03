@@ -11,7 +11,6 @@ body {
     font-family: sans-serif;
 }
 
-/* shared fluid container for the whole page */
 header,
 main,
 footer {
@@ -39,7 +38,6 @@ header h1 {
     font-weight: 800;
 }
 
-/* narrow screens: title and data mode switch on two centered rows */
 @media (max-width: 480px) {
     header {
         flex-direction: column;
@@ -48,7 +46,6 @@ header h1 {
     }
 }
 
-/* demo/live data mode switch */
 .mode-switch {
     display: inline-flex;
     align-items: center;
@@ -105,45 +102,43 @@ header h1 {
     outline-offset: 2px;
 }
 
-/* modal window shown when live api is not available in this build */
-.modal {
-    width: min(480px, 90vw);
-    padding: 24px 28px;
-    border: none;
-    border-radius: 8px;
-    background-color: #ffffff;
-    color: #282828;
-    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.5);
+.mode-switch.is-disabled {
+    cursor: not-allowed;
+    color: #6d7a87;
 }
 
-.modal::backdrop {
-    background-color: rgba(10, 12, 16, 0.65);
+.mode-switch.is-disabled .mode-switch__track {
+    background-color: #262d36;
 }
 
-.modal__title {
-    margin: 0 0 12px;
-    font-size: 18px;
+.mode-switch.is-disabled input:disabled + .mode-switch__track {
+    opacity: 0.5;
 }
 
-.modal__text {
-    margin: 0 0 20px;
-    font-size: 14px;
-    line-height: 1.5;
-    color: #4e5d6b;
+.mode-switch.is-ready {
+    color: #7fc8ff;
 }
 
-.modal__close-btn {
-    padding: 8px 24px;
-    border: none;
-    border-radius: 4px;
-    background-color: #1e3953;
-    color: #ffffff;
-    font-size: 14px;
-    cursor: pointer;
+.mode-switch.is-ready .mode-switch__track {
+    background-color: #2f6d4f;
+    animation: switch-ready 1.2s ease-in-out infinite;
 }
 
-.modal__close-btn:hover {
-    background-color: #4077a6;
+@keyframes switch-ready {
+    0%,
+    100% {
+        box-shadow: 0 0 0 0 rgba(80, 200, 130, 0);
+    }
+
+    50% {
+        box-shadow: 0 0 0 5px rgba(80, 200, 130, 0.35);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .mode-switch.is-ready .mode-switch__track {
+        animation: none;
+    }
 }
 
 footer {

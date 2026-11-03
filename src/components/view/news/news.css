@@ -1,4 +1,3 @@
-/* masonry card layout: browser-sized columns, dense packing with even gaps */
 .news {
     column-width: 320px;
     column-gap: 20px;
@@ -15,7 +14,9 @@
     border-radius: 5px;
     overflow: hidden;
     break-inside: avoid;
-    transition: box-shadow 0.2s ease, transform 0.2s ease;
+    transition:
+        box-shadow 0.2s ease,
+        transform 0.2s ease;
 }
 
 .news__item:hover {
@@ -43,7 +44,6 @@
     transition: transform 0.2s;
 }
 
-/* css gradient shown in place of a missing article image */
 .news__item .news__meta-photo.is-missing {
     background-image: linear-gradient(135deg, #6b7891 0%, #39414f 55%, #23272f 100%);
 }

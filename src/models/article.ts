@@ -10,6 +10,6 @@ export interface Article {
     description: string | null;
     url: string;
     urlToImage: string | null;
-    publishedAt: string; // ISO 8601 date-time string
+    publishedAt: string;
     content: string | null;
 }

@@ -22,7 +22,7 @@ export interface EverythingResponse {
 
 export interface ApiErrorResponse {
     status: ApiResponseStatus;
-    code: string; // NewsAPI error code, e.g. "apiKeyBanned"
+    code: string;
     message: string;
 }
 

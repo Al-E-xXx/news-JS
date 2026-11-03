@@ -22,13 +22,13 @@ export default tseslint.config(
         },
     },
     {
-        files: ['*.config.js'],
+        files: ['webpack*.js'],
         languageOptions: {
             sourceType: 'commonjs',
             globals: globals.node,
         },
         rules: {
-            '@typescript-eslint/no-require-imports': 'off', // webpack configs are CommonJS by design
+            '@typescript-eslint/no-require-imports': 'off',
         },
     }
 );
