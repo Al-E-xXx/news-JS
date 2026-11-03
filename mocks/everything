@@ -1,786 +1,1566 @@
 {
-  "status": "ok",
-  "totalResults": 60,
-  "articles": [
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Lee Ann Herring Olvedo, UK Wildcats Wire",
-      "title": "Kentucky climbs to No. 8 without playing a snap in AP Poll",
-      "description": "The Wildcats rise a spot in the AP Top 25 during a bye week. Saturday night in Knoxville will show whether they belong in the room.",
-      "url": "https://ukwildcatswire.usatoday.com/story/sports/college/kentucky/football/2026/11/01/kentucky-football-eighth-ap-poll-after-bye/92551832007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c6c89c7cd0d9e6fe944c0945a546797f669a4784c9724a6a2985bf268268a316/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwildcats_wire_articles_598%2F8c6b13bf28ef47f5d4331fd49be9c510.jpg",
-      "publishedAt": "2026-11-01T20:13:30Z",
-      "content": "Kentucky football didn't play last Saturday, and the Wildcats still moved up.\r\nWill Stein's ball club (7-1) climbed one spot to No. 8 in Sunday's AP Top 25. The Wildcats spent the weekend resting and… [+4271 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Week 9 AP Top 25 Poll makes a mockery of Wake Forest and a laughable overreaction to USC's win over Buckeyes",
-      "description": "Miami holds No. 1 in the AP Top 25 poll at 8-0, but voters' treatment of Wake Forest and USC's massive 13-spot jump sparks serious debate.",
-      "url": "https://www.foxnews.com/outkick-sports/week-9-ap-top-25-poll-makes-mockery-wake-forest-laughable-overreaction-uscs-win-buckeyes",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/lincoln-riley-usc-walkout.jpg",
-      "publishedAt": "2026-11-01T20:13:21Z",
-      "content": "The first edition of the College Football Playoff rankings will be released on November 3, marking a point in the 2026 college football season when the AP Top 25 Poll takes a back seat, but that does… [+5436 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Trisha Easto, USA TODAY",
-      "title": "Vikings vs. Bills Monday Night Football tickets start at $257",
-      "description": "Will the Vikings remain undefeated when they host Josh Allen and the Bills? Tickets are starting at $257 for the Monday Night Football matchup.",
-      "url": "https://www.usatoday.com/story/shopping/sports/tickets/2026/11/01/buy-minnesota-vikings-vs-buffalo-bills-nfl-tickets/92549800007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/065329ba1a86744e7f4f34f720720c137c95dc2cdff2faf9b383de841128da53/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_affiliate_609%2Fabfcdfd1d3e0eb9e5a47003ede30728f.jpg",
-      "publishedAt": "2026-11-01T20:13:18Z",
-      "content": "Will the Minnesota Vikings still be undefeated when they host Josh Allen and the Buffalo Bills on Monday Night Football? The Vikings are the only undefeated team in the NFL, with both the Bills and t… [+3318 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Jason Ma",
-      "title": "As Trump eyes new attack, Iran vows to retaliate beyond the Mideast and target financial assets, while oil markets brace for generational damage",
-      "description": "On Saturday, Ayatollah Mojtaba Khamenei warned Iran’s response would be \"without any geographical limitations.\"",
-      "url": "https://fortune.com/2026/11/01/iran-war-retaliation-financial-assets-oil-markets-generational-damage-trump-midterm-elections/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/10039405-e1793557380853.jpg?resize=1200,600",
-      "publishedAt": "2026-11-01T20:11:56Z",
-      "content": "The clock is ticking toward a new round of fighting in the U.S.-Iran war, but this time the damage could be much more widespread, stretching to new regions and different types of targets.President Do… [+4385 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Worst time to shop at Costco may be when you least expect it, with one day drawing the most crowds",
-      "description": "Costco crowds peak on Sunday afternoons, but Reddit users and experts reveal the best weekday windows to shop at the box-big store with fewer lines and fuller shelves.",
-      "url": "https://www.foxnews.com/food-drink/worst-time-shop-costco-may-when-you-least-expect-it-one-day-drawing-most-crowds",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/costco-checkout.jpg",
-      "publishedAt": "2026-11-01T20:10:47Z",
-      "content": "In order to avoid large crowds and a chaotic shopping experience, customers might want to stay away from Costco on certain afternoons.\r\nThe busiest and slowest times to shop at Costco may vary by loc… [+2412 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Jon Heath, Broncos Wire",
-      "title": "Broncos injuries: Zach Allen and 3 others cleared to play",
-      "description": "Broncos DL Zach Allen (hamstring) has been cleared to play.",
-      "url": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2026/11/01/broncos-injuries-zach-allen-cleared-to-play/92447363007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5c6ea6fe4c286c75ac1426b55f1d57b78607f4b3a4a1cc800bad8fc8f52fc536/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdenver_broncos_wire_usa_today_sports_articles_584%2F69f768d53decf63d4c7f1d9f626d9d6f.jpg",
-      "publishedAt": "2026-11-01T20:10:20Z",
-      "content": "Denver Broncos defensive lineman Zach Allen (hamstring) is active for Sunday's game against the Kansas City Chiefs.\r\nAllen went down in the fourth quarter of last Sunday's 30-16 win over the Arizona … [+1181 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Ed Easton Jr., Chiefs Wire",
-      "title": "Inactive players for Kansas City Chiefs vs. Denver Broncos, Week 8",
-      "description": "Inactive players for Denver Broncos vs. Kansas City Chiefs, Week 8 | @EdEastonJr",
-      "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/11/01/inactive-players-for-kansas-city-chiefs-vs-denver-broncos-week-8/92504814007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/cc7570a3431d89c761de5219300be5da9ba84390ba30b45427e77e104e007fb5/lightyear_networkapi/resizefill_w1000_h600%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkansas_city_chiefs_wire_usa_today_sports_articles_178%2F71df3f67792ba8ba48cf23ae995b1bdf.jpg",
-      "publishedAt": "2026-11-01T20:09:16Z",
-      "content": "The Kansas City Chiefs and Denver Broncos released their inactive lists ahead of Sunday's Week 8 matchup at Empower Field at Mile High.\r\nHere are the inactive players for the Chiefs:\r\n<ul><li>DL Jack… [+1151 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Glenn Erby , Ravens Wire",
-      "title": "Ravens' versatile RB Justice Hill is emergency fourth QB vs. Bills",
-      "description": "Justice Hill is Baltimore's emergency fourth quarterback if rookie Joe Fagnano cannot continue after injuries to Lamar Jackson and Tyler Huntley",
-      "url": "https://ravenswire.usatoday.com/story/sports/nfl/ravens/2026/11/01/ravens-justice-hill-emergency-quarterback-joe-fagnano-bills/92552437007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2723b4cd29ade9f29e8927b992851de3aaadd5ba6b9abc492b2866234ac9fb81/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbaltimore_ravens_wire_usa_today_sports_articles_532%2Febbd6d15c25b173c994d142c362df687.jpg",
-      "publishedAt": "2026-11-01T20:08:55Z",
-      "content": "The Baltimore Ravens entered Sunday's matchup against the Buffalo Bills with three quarterbacks available, but injuries to Lamar Jackson and Tyler Huntley have left the team one setback away from pot… [+4332 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Daniel Dobish, USA TODAY",
-      "title": "Patriots Week 8 inactives",
-      "description": "Patriots announce six inactives ahead of Week 8 game",
-      "url": "https://www.usatoday.com/story/sports/fantasy/player-updates/2026/11/01/treveyon-henderson-among-inactives-for-patriots-in-week-8/92552407007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e8a5df094a78d977c582daff64a267624eb60c667564b66ac7174e780d391711/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F6d44bcea6ce6a505af571e92f7407d6d.jpg",
-      "publishedAt": "2026-11-01T20:06:27Z",
-      "content": "New England Patriots wide receiver A.J. Brown (ankle, knee), cornerback Channing Canada (hamstring), free safety Elliott Davison, running back TreVeyon Henderson (illness), quarterback Behren Morton … [+227 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Lincoln Riley has confrontation with Ohio State AD, reads prepared statement to media after huge USC win",
-      "description": "The USC Trojans stunned the No. 2 Ohio State Buckeyes just days after a dismal loss to Wisconsin, capping a wild week for Lincoln Riley's program.",
-      "url": "https://www.foxnews.com/outkick-sports/lincoln-riley-confrontation-ohio-state-ad-reads-prepared-statement-media-huge-usc-win",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/lincoln-riley-reacts-southern-california-ohio-state-fox-news_.jpg",
-      "publishedAt": "2026-11-01T20:05:54Z",
-      "content": "What a wild week it's been for the USC Trojans.\r\nJust last Saturday, it seemed like the Lincoln Riley era in Los Angeles was nearing its end. SC went into Madison as a sizable favorite over the Wisco… [+6566 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Jess Root, Cardinals Wire",
-      "title": "Arizona Cardinals WR Kendrick Bourne out with ankle injury",
-      "description": "The Cardinals are down another receiver after Kendrick Bourne suffers a high ankle sprain.",
-      "url": "https://cardswire.usatoday.com/story/sports/nfl/cardinals/2026/11/01/arizona-cardinals-wr-kendrick-bourne-out-with-ankle-injury/92552373007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0a0ada7ac067f8401cf22dec49c759d38ab70db1edbcc082e8749ec55246313d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Farizona_cardinals_wire_usa_today_sports_articles_662%2F9dca502e0e5f5e207a8418d1263d7c20.jpg",
-      "publishedAt": "2026-11-01T20:05:30Z",
-      "content": "The Arizona Cardinals suffered another blow to the offense. Wide receiver Kendrick Bourne left the game late in the second quarter, limping off the field and went to the locker room before halftime.\r… [+837 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Jordy McElroy, Patriots Wire",
-      "title": "Patriots vs. Dolphins Week 8 inactives: Who's in, who's out?",
-      "description": "Who's in and who's out for the Patriots in Sunday's matchup against the Dolphins?",
-      "url": "https://patriotswire.usatoday.com/story/sports/nfl/patriots/2026/11/01/patriots-dolphins-week-8-inactives/92551911007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/46b5e506bfb8a66b6f37bbecedd7f901cfd68f5a4dddb61841e7286e26fdb0ae/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnew_england_patriots_wire_usa_today_sports_articles_330%2Fa160aae37009d2012b107805450d6f62.jpg",
-      "publishedAt": "2026-11-01T20:02:46Z",
-      "content": "The New England Patriots will have their depth tested in Sunday's game against the Miami Dolphins.\r\nOn Saturday, Patriots coach Mike Vrabel ruled out three-time All-Pro wide receiver A.J. Brown, alon… [+1327 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Anthony Rizzuti, Panthers Wire",
-      "title": "Reporter provides more insight into Panthers' firing of DC Ejiro Evero",
-      "description": "NFL insider James Palmer gave a bit of additional insight into the Panthers' decision to fire DC Ejiro Evero.",
-      "url": "https://pantherswire.usatoday.com/story/sports/nfl/panthers/2026/11/01/nfl-report-panthers-fire-ejiro-evero-injuries/92550984007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/956852a730c22d47c58eabad5413a99a2629eab9d2cdea818c2d8fd283429b2b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcarolina_panthers_wire_usa_today_sports_articles_855%2F154b44f474e55c08533a96a09b66ad2f.jpg",
-      "publishedAt": "2026-11-01T20:01:13Z",
-      "content": "Ejiro Evero may have lost the benefit of the doubt long before losing his job.\r\nOn Friday morning, following their 27-19 loss to the Green Bay Packers, the Carolina Panthersannounced the dismissal of… [+1467 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Daniel Dobish, USA TODAY",
-      "title": "Dolphins Week 8 inactives",
-      "description": "Dolphins announce seven inactives ahead of Week 8 game",
-      "url": "https://www.usatoday.com/story/sports/fantasy/player-updates/2026/11/01/kadyn-proctor-among-inactives-for-dolphins-in-week-8/92552170007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/04779da1da9af66af9a20ed4a23b764f344be3f361b5c242150a2a606f089f00/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fbc0f5186b004c28d13af0bfa2115d403.jpg",
-      "publishedAt": "2026-11-01T20:01:05Z",
-      "content": "Miami Dolphins cornerback Marcellas Dial Jr., offensive guard Christian Haynes, tight end Justin Joly, defensive end Jamree Kromah, offensive lineman Kadyn Proctor (concussion), cornerback Jaylin Sim… [+308 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Ariana Pensy, Bears Wire",
-      "title": "Why Bears GM Ryan Poles traded for DT Jeffery Simmons",
-      "description": "Chicago Bears general manager Ryan Poles explained why the team was able to trade for defensive tackle Jeffery Simmons.",
-      "url": "https://bearswire.usatoday.com/story/sports/nfl/bears/2026/11/01/bears-ryan-poles-jeffery-simmons-trade-explanation/92530176007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/4d2153b98b51fca166b8afcd7dd0e6011a104932bcb9569054c48a91f8081a66/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fchicago_bears_wire_usa_today_sports_articles_533%2F616f4ba865935846a120c782bb1d1e97.jpg",
-      "publishedAt": "2026-11-01T20:00:36Z",
-      "content": "The Chicago Bears made a splash when they traded for All-Pro defensive tackle Jeffery Simmons this week, sending two first-round picks to the Tennessee Titans to land one of the best defensive player… [+1994 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Terrence O’Brien",
-      "title": "Flock keeps ignoring requests to cancel its contracts",
-      "description": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to t…",
-      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-11-01T19:58:02Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nCities are canceling Flock contracts, but the company wont take them down and sometimes is reinstalling them.\r\nCities are canceling Flock contracts, but the comp… [+3119 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Josh Helmer, Lions Wire",
-      "title": "Lions injury update: Brian Branch, DJ Wonnum ruled out vs. Vikings",
-      "description": "Brian Branch and DJ Wonnum both exited after a nasty second-quarter collision. Injury updates from the Lions as they battle the Vikings.",
-      "url": "https://lionswire.usatoday.com/story/sports/nfl/lions/2026/11/01/detroit-lions-injury-updates-vs-minnesota-vikings-brian-branch-dj-wonnum/92551983007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/abcf63e9f21d3cc7821bea805cb4e3a619e6597e5908e36374fbf96878b583db/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdetroit_lines_wire_usa_today_sports_articles_856%2F1158215686a2c1f9f93d204343c6cfff.jpg",
-      "publishedAt": "2026-11-01T19:56:18Z",
-      "content": "The Detroit Lions (4-2) are hosting the Minnesota Vikings (6-0) in a key NFC North showdown on Sunday from Ford Field.\r\nAs the Lions eye a massive division victory, Detroit has suffered its fair shar… [+1118 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Robert Zeglinski, For The Win",
-      "title": "Many Titans defenders wore red sleeves vs. the Bengals for an obvious reason",
-      "description": "Jeffery Simmons' Titans teammates clearly adored him.",
-      "url": "https://ftw.usatoday.com/story/sports/nfl/2026/11/01/titans-defense-red-sleeves-jeffery-simmons-bengals-bears-trade/92551856007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/796429772071ae7300889b5b49b28fdd9d50b2aa60c6bc75c70755f303e894c9/lightyear_networkapi/resizefill_w990_h604%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fftw_outdoors_usa_today_article_609%2Fbc65a8e1a81a140351360505156365f1.jpg",
-      "publishedAt": "2026-11-01T19:54:00Z",
-      "content": "For all intents and purposes, Jeffery Simmons is clearly one of the greatest and most beloved Tennessee Titans of all time. That's what happens when you're a three-time All-Pro and four-time Pro Bowl… [+1672 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Lauren Edmonds",
-      "title": "Microsoft AI chief says AI is not conscious and we should keep it that way",
-      "description": "Microsoft AI CEO Mustafa Suleyman said developers should only build AI models that \"are not conscious and not deserving of rights.\"",
-      "url": "https://www.businessinsider.com/mustafa-suleyman-microsoft-ai-consciousness-2026-11#article",
-      "urlToImage": "https://i.insider.com/6ae780f8f3bee449b3d2a08b?width=1200&format=jpeg",
-      "publishedAt": "2026-11-01T19:45:17Z",
-      "content": "Microsoft AI CEO Mustafa Suleyman cautioned against building conscious superintelligence on X.Stephen Brashear/Getty Images\r\n<ul><li>Microsoft AI CEO Mustafa Suleyman said developing conscious AI is … [+2447 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Alyce Brown, USA TODAY",
-      "title": "High school football team wins playoff game on miracle Hail Mary — and lateral",
-      "description": "Whitesboro stunned Carthage 31-30 on a last-second Hail Mary and lateral, producing a miracle touchdown that kept its New York playoff hopes alive.",
-      "url": "https://www.usatoday.com/story/sports/high-school/football/2026/11/01/whitesboro-football-miracle-hail-mary-lateral-playoff-win/92550458007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/37b6c4d5a731bc46e6b702c24178c6e9c534104abaee6a70646985a1a3e354f7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fe709e366c52dc4c46429baa13b547b78.jpg",
-      "publishedAt": "2026-11-01T19:42:32Z",
-      "content": "One of the craziest plays of the weekend didn't belong to a college upset or an NFL showdown it came from the final seconds of a high school football game in upstate New York.\r\nIn the Empire State's … [+913 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Cristian  Benavides",
-      "title": "Creditor has \"taken control\" of forever cruise",
-      "description": "Residents of Villa Vie Odyssey, which remains stuck in Cambodia, have been informed the cruise ship is now under control of its lender, CBS News has learned.",
-      "url": "https://www.cbsnews.com/news/creditor-taken-control-forever-cruise-message-to-residents/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/29/843ce3d8-ef58-4304-a1a0-11e05f15fb50/thumbnail/1200x630/f1373230e96edc8aae8c5ea497dbb31d/gettyimages-2301851494.jpg",
-      "publishedAt": "2026-11-01T19:42:09Z",
-      "content": "Residents of Villa Vie Odyssey — which remains stuck in Cambodia — have been informed the cruise ship is now under control of its lender, according to a message sent to residents and obtained by CBS … [+4571 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Zachary Neel, Ducks Wire",
-      "title": "Oregon Ducks' CFP chances double after Northwestern win, per ESPN FPI",
-      "description": "After a win over Northwestern, and chaos in the Big Ten, the Oregon Ducks' chances at making the College Football Playoff have doubled, per ESPN FPI.",
-      "url": "https://duckswire.usatoday.com/story/sports/college/ducks/football/2026/11/01/oregon-football-cfp-chances-espn-fpi/92550970007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/578d7ce62dfd72074bd2ccf8901187a3b405fec016a421d345e18836ff04dcfa/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fducks_wire_usa_today_articles_200%2F00b165136ebb8651dcffe627d240894d.jpg",
-      "publishedAt": "2026-11-01T19:41:46Z",
-      "content": "It's been a roller-coaster of a season for the Oregon Ducks, with many highs and lows experienced through the first nine weeks. The Ducks entered with championship aspirations, felt early doubt and f… [+4238 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Your walking speed may hold a clue to how long you’ll live, study suggests",
-      "description": "A JAMA Network Open study of over 4,000 older adults found faster walking pace was linked to lower death risk over nearly 12 years of follow-up.",
-      "url": "https://www.foxnews.com/health/walking-speed-clue-how-long-youll-live-study-suggests",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/elderly-couple-morning-walk-park.jpg",
-      "publishedAt": "2026-11-01T19:38:58Z",
-      "content": "The speed a person normally walks could offer a simple clue about their overall health and longevity, new research suggests.\r\nA study published in JAMA Network Open followed 4,067 adults in the U.K.,… [+3075 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Ariana Pensy, Jaguars Wire",
-      "title": "WATCH: Tuten scores 39-yard TD vs Colts just before halftime",
-      "description": "Jacksonville Jaguars running back Bhayshul Tuten scored the longest touchdown of his career to extend the Jaguars' lead over the Colts.",
-      "url": "https://jaguarswire.usatoday.com/story/sports/nfl/jaguars/2026/11/01/jaguars-colts-bhayshul-tuten-39-yard-touchdown/92551850007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7fe0811e4005d8fa323f22ad7c07b873f9e075e3ada21588167dead1a24badc2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjacksonville_jaguars_wire_usa_today_sports_articles_630%2Fefa9011608f5ed6ad90c81d58a290e75.jpg",
-      "publishedAt": "2026-11-01T19:38:43Z",
-      "content": "The Jacksonville Jaguars already had a 14-0 lead, but right after the two-minute warning in the first half, the Jaguars extended their lead with a 39-yard touchdown run from running back Bhayshul Tut… [+609 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Levi Damien, Raiders Wire",
-      "title": "Raiders give up over 100 yards rushing to Jets' Braelon Allen...in the 1st half",
-      "description": "The Raiders run defense just allowed Jets RB Braelon Allen to run for 121 yards...in the first half alone.",
-      "url": "https://raiderswire.usatoday.com/story/sports/nfl/raiders/2026/11/01/jets-rb-braelon-allen-over-100-yards-rushing-1st-half-raiders/92551651007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/79b91e2704a4e0b6b57af3eceb0ed5288f95850dc8ab2d10f234277a1ab4d7ad/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flas_vegas_raiders_wire_usa_today_sports_articles_842%2F9cf1b197ebae883df5260f84de4399f8.jpg",
-      "publishedAt": "2026-11-01T19:37:57Z",
-      "content": "Just when you think the Raiders run defense could not look any worse, they come out and lower that bar. Even with the Jets missing former 1000-yard back Breece Hall, the Jets are still gouging them o… [+949 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Victoria Hernandez, USA TODAY",
-      "title": "Who is Kimi Antonelli? What to know about F1's potential new champion",
-      "description": "Kimi Antonelli, 20, can make history if he clinches his first Formula 1 championship at the Mexico City Grand Prix. What to know about rising star.",
-      "url": "https://www.usatoday.com/story/sports/motor/formula1/2026/11/01/kimi-antonelli-age-team-nationality-potential-first-f1-title/92490875007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/eeef6db67ff1c7a8f3027317219a943ccdd841d8448896d282f187760b30c043/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F19d59a4e07576cdf962392fb1cba9c4a.jpg",
-      "publishedAt": "2026-11-01T19:36:45Z",
-      "content": "On the brink of his first Formula 1 championship, Kimi Antonelli already stands alone.\r\nThe 20-year-old driver, who races for Mercedes, has a chance to clinch his first F1 title on Sunday, Nov. 1 at … [+3682 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Tim Healey, Fighting Irish Wire",
-      "title": "Notre Dame moves up one spot in the AP Top 25 poll after win at Navy",
-      "description": "Notre Dame moves up one spot in the AP Top Poll after beating Navy 35-13.",
-      "url": "https://fightingirishwire.usatoday.com/story/sports/college/fighting-irish/football/2026/11/01/notre-dame-football-associated-press-top-25-poll-week-9/92551452007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a69d2e703f1330ee8bc8022af210e3ef97db1e6f53bf06d5addc4724feefad8f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffighting_irish_wire_usa_today_articles_281%2Fd29febfcc0ba4afda143a4b8c16f11f5.jpg",
-      "publishedAt": "2026-11-01T19:35:27Z",
-      "content": "Notre Dame moves up one spot in the Associated Press Top 25 poll after beating the Navy Midshipmen 35-13 on Saturday.\r\nThe Fighting Irish are now No. 4.\r\n (Jason Snow / USA Today Network, USA TODAY N… [+772 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Curt Popejoy, Steelers Wire",
-      "title": "Steelers vs Browns: 1st half takeaways",
-      "description": "Here are our takeaways from the first half between the Pittsburgh Steelers and the Cleveland Browns.",
-      "url": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/11/01/steelers-vs-browns-1st-half-takeaways/92551281007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/53e1d4148a95f8fb4f8c5e03d4397efbad2c0b86bc72ce9dbf679431c2d8a172/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpittsburgh_steelers_wire_usa_today_sports_articles_164%2F7084b8fb8dbb7d2a8bd7eec6d3abd74f.jpg",
-      "publishedAt": "2026-11-01T19:34:15Z",
-      "content": "It's halftime in Pittsburgh and the Steelers lead the Cleveland Browns 20-6 . This game has been completely lopsided in all phases other than the scoreboard. A late field goal by the Browns helped ke… [+1047 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Barry Werner, Touchdown Wire",
-      "title": "5 things to know about Ravens emergency quarterback Joe Fagnano",
-      "description": "The Baltimore Ravens had to turn to undrafted free agent Joe Fagnano after Lamar Jackson and Tyler Huntley were injured against the Bills.",
-      "url": "https://touchdownwire.usatoday.com/story/sports/nfl/2026/11/01/baltimore-ravens-emergency-quarterback-joe-fagnano/92551597007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/59e35ebc5918055a19be7e5428430e8180691fedf52197959a8b9ec03ba0174c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftouchdown_wire_usa_today_sports_articles_829%2F2d888e965a0db8d6e15cdd816e557905.jpg",
-      "publishedAt": "2026-11-01T19:33:45Z",
-      "content": "The Baltimore Ravens lost Lamar Jackson after one play on Sunday against the Buffalo Bills.\r\nShortly after that, backup Tyler Huntley went out with an injury to his right foot.\r\nThat brought emergenc… [+897 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Jon Ediger, Chiefs Wire",
-      "title": "Mahomes, Kelce make fashionable entrance at Week 8 matchup vs. Broncos",
-      "description": "See what all of the Chiefs' stars wore as they arrived at Mile High Stadium for Kansas City's AFC West showdown against the Denver Broncos in Week 8.",
-      "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/11/01/patrick-mahomes-travis-kelce-fashion-kansas-city-chiefs-denver-broncos-mile-high-stadium-nfl-week-8/92537248007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2661f90a0025d984a65f42b79eb6c5e767e52b62c3ea2c7c363ccae16b65b35c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkansas_city_chiefs_wire_usa_today_sports_articles_178%2F90fad682aa9a342f36a25af9d3c630e4.jpg",
-      "publishedAt": "2026-11-01T19:33:39Z",
-      "content": "The Kansas City Chiefs will look to get back into the win column on Sunday with a victory over the Denver Broncos at Mile High Stadium.\r\nMany of Kansas City's stars were featured in posts on the Chie… [+719 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 1, 2026",
-      "description": "On this \"Face the Nation with Margaret Brennan\" broadcast, Sen. Bernie Sanders and Pennsylvania Gov. Josh Shapiro join Margaret Brennan.",
-      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-11-01-2026/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/01/a5fbf80f-8e0a-4ec8-a362-2767e3aacfa3/thumbnail/1200x630/480309dbe8564586921666a24c224c29/1793561397424.png",
-      "publishedAt": "2026-11-01T19:31:33Z",
-      "content": "On this \"Face the Nation with Margaret Brennan\" broadcast, moderated by Margaret Brennan: \r\n<ul><li>Sen. Bernie Sanders, Independent of Vermont </li><li>Rep. Mike Lawler, Republican of New York </li>… [+50327 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Private jet with 9 people on board crashes just miles from Mar-a-Lago",
-      "description": "A small plane carrying nine people crashed and exploded in Palm Beach County, Florida, just miles from Mar-a-Lago.",
-      "url": "https://www.foxnews.com/us/private-jet-9-people-board-crashes-just-miles-from-mar-a-lago",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/jet-crash-florida-palm-beach.jpeg",
-      "publishedAt": "2026-11-01T19:31:26Z",
-      "content": "A private jet carrying nine people slammed into a South Florida neighborhood Sunday afternoon, erupting into a massive fireball around nine miles from Mar-a-Lago. \r\nIn a statement, the Federal Aviati… [+1245 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Brian Stultz, Duke Wire",
-      "title": "Manny Diaz on Nate Sheppard's historic day: 'What an accomplishment'",
-      "description": "Duke running back Nate Sheppard received praise from his coach and opposing coaches following his historic day in the Blue Devils' win.",
-      "url": "https://dukewire.usatoday.com/story/sports/college/duke/football/2026/11/01/nate-sheppard-record-day-duke-boston-college-manny-diaz/92551048007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5af1002fca5c76bf19878535c56858df24df6ee7c6fe35e9359768f92119d8a9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fduke_wire_articles_169%2F61e6e7cf7b6546bb31e335630babdb86.jpg",
-      "publishedAt": "2026-11-01T19:30:32Z",
-      "content": "Bill O'Brien was a man of few words following Boston College's dispiriting 47-2 loss to Duke on Saturday, so when asked about Blue Devils' running back Nate Sheppard, he was simple and succinct. \r\n\"H… [+2208 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Roman Tomashoff, Huskies Wire",
-      "title": "Washington football opponents jump in Week 10 US LBM Coaches Poll",
-      "description": "Several former and upcoming Washington opponents got a bump up in the Week 10 installment of the US LBM Coaches Poll.",
-      "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/football/2026/11/01/uw-football-jedd-fisch-washington-huskies-oregon-ducks-indiana-hoosiers-us-lbm-coaches-poll/92551352007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c3e0c52ee500f1324d26a6f2c3c4e43f61ed04bbbc15aa404cfbab02ce552ab7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhuskies_wire_articles_664%2F85421f8f4be8ad61cc8d4ad580ea4fbe.jpg",
-      "publishedAt": "2026-11-01T19:30:12Z",
-      "content": "Even after the Washington Huskies completed a miraculous fourth-quarter comeback to knock off the Nebraska Cornhuskers 17-10 on the road, Jedd Fisch's team didn't receive a single vote in the Week 10… [+6740 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Anthony Rizzuti, Panthers Wire",
-      "title": "Former Panthers TE scores wildly improbable TD for Cowboys in Week 8",
-      "description": "A former Panthers TEwas in the right place at the right time (for the first time in a long time) on Sunday.",
-      "url": "https://pantherswire.usatoday.com/story/sports/nfl/panthers/2026/11/01/nfl-cowboys-cardinals-james-mitchell-panthers/92551066007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e624f47230859bd882817e7dc2b7f6f61183e2f0acaec4a2cc03b6b31a829701/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcarolina_panthers_wire_usa_today_sports_articles_855%2F0df21331f358694b8eb3f01f5958d7b4.jpg",
-      "publishedAt": "2026-11-01T19:26:39Z",
-      "content": "A former Carolina Panthers tight end was in the right place at the right timefor the first time in a long timehere in Week 8.\r\nThe first touchdown of Sunday's matchup between the Arizona Cardinals an… [+858 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Ariana Pensy, Jaguars Wire",
-      "title": "Jaguars rookie with big touchdown catch vs. Colts",
-      "description": "Jaguars rookie tight end Nate Boerkircher had his second touchdown of the season against the Colts to give Jacksonville a 14-0 lead.",
-      "url": "https://jaguarswire.usatoday.com/story/sports/nfl/jaguars/2026/11/01/jaguars-colts-nate-boerkircher-second-touchdown-of-season/92551602007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f29c25a1db6571939ac06c88e89b83c16caa61730f6b0b4577f899980470075f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjacksonville_jaguars_wire_usa_today_sports_articles_630%2Fcc453c907368e93e00436ee8e6262166.jpg",
-      "publishedAt": "2026-11-01T19:25:41Z",
-      "content": "The Jacksonville Jaguars capitalized on a rare fumble by Indianapolis Colts running back Jonathan Taylor to score a 31-yard touchdown from Trevor Lawrence to rookie tight end Nate Boerkircher.\r\nBoerk… [+703 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Daniel Dobish, USA TODAY",
-      "title": "Tyler Huntley exits, emergency QB Joe Fagnano in",
-      "description": "Baltimore Ravens quarterback Tyler Huntley left injured, forcing the team to use emergency QB Joe Fagnano",
-      "url": "https://www.usatoday.com/story/sports/fantasy/player-updates/2026/11/01/tyler-huntley-forced-out-joe-fagnano-exits-game/92551578007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/668ba29729df1e6d54875230783c71f7723574cc0a62c7284b266e344efc7ec9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fa8c7ecd302f8372c09cb356525ed47d6.jpg",
-      "publishedAt": "2026-11-01T19:23:08Z",
-      "content": "Baltimore Ravens quarterback Tyler Huntley (toe) left the Week 8 game against the Buffalo Bills in the first half due to a toe injury, and he is considered questionable to return. He was thrust into … [+920 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Glenn Erby , Ravens Wire",
-      "title": "Joe Fagnano makes NFL debut after Ravens lose two quarterbacks",
-      "description": "Who is Joe Fagnano? The undrafted rookie quarterback makes his NFL debut after injuries to Lamar Jackson and Tyler Huntley against Buffalo",
-      "url": "https://ravenswire.usatoday.com/story/sports/nfl/ravens/2026/11/01/ravens-joe-fagnano-nfl-debut-lamar-jackson-tyler-huntley-bills/92551562007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c5fef043e01c0ab09c0a9514774f3053f9e49b21a8c609f892e43f62dad298a5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbaltimore_ravens_wire_usa_today_sports_articles_532%2F7b69c3183bcb290cbd3e3196a793e1d2.jpg",
-      "publishedAt": "2026-11-01T19:20:52Z",
-      "content": "The Baltimore Ravens were forced to turn to an unlikely option at quarterback Sunday afternoon, with undrafted rookie Joe Fagnano making his NFL regular-season debut after injuries sidelined Lamar Ja… [+3645 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Matt Melton, Roll Tide Wire",
-      "title": "Alabama's AP Poll ranking revealed entering Week 10 clash vs. LSU",
-      "description": "The Crimson Tide have jumped in Sunday's latest AP Poll ahead of a massive Week 10 matchup against LSU.",
-      "url": "https://rolltidewire.usatoday.com/story/sports/college/crimson-tide/football/2026/11/01/alabama-football-ap-poll-ranking-week-10/92533737007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/4e4f9e87bf3c79394b4a1de0964cc08e9c8eed0766d3023b2b81308011336472/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Froll_tide_wire_usa_today_articles_214%2Fecec7d8074f991bb03c7a1f5764c4226.jpg",
-      "publishedAt": "2026-11-01T19:20:25Z",
-      "content": "Despite not playing this past Saturday due to a bye week, the Alabama Crimson Tide have still moved in the latest AP Poll Top 25 rankings.\r\nReleased on Sunday afternoon, Alabama has jumped one spot c… [+945 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Jaguars Wire",
-      "title": "Jaguars lose key defender to injury v. Colts in Week 8",
-      "description": "Tackle DaVon Hamilton was taken off the field after seemingly injuring his knee in the Jaguars v. Colts game.",
-      "url": "https://jaguarswire.usatoday.com/story/sports/nfl/jaguars/2026/11/01/davon-hamilton-injured-jaguars-colts-game/92551390007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f8fa73fc8dbdf7daba205a7b698e2e9405b6a7c89c53373f6d8e74230203c22c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjacksonville_jaguars_wire_usa_today_sports_articles_630%2F2b03884a6da4a53ab6010e7fe673873a.jpg",
-      "publishedAt": "2026-11-01T19:20:19Z",
-      "content": "The Jacksonville Jaguars are down another key player on defense.\r\nPlaying against the Indianapolis Colts, the Jaguars lost Eric Murray to an elbow injury early in the game.\r\nThen, during a key defens… [+1202 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Nick Brinkerhoff, USA TODAY",
-      "title": "Tyler Huntley injury update as Ravens emergency QB enters vs. Bills",
-      "description": "The Ravens were forced to use their emergency quarterback after injuries to Lamar Jackson and Tyler Huntley. Here are the rules about emergency QB use.",
-      "url": "https://www.usatoday.com/story/sports/nfl/ravens/2026/11/01/ravens-emergency-quarterback-lamar-jackson-tyler-huntley-injury/92551556007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e981fb971fd2a47995b50f0c0904a01b3b6feada220363ebcecbf8da6fb62c73/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F27657191c6e474df31f76c68706ffe56.jpg",
-      "publishedAt": "2026-11-01T19:20:10Z",
-      "content": "The Baltimore Ravens are almost out of quarterbacks.\r\nLamar Jackson returned after missing the last three games with an ankle injury. Then he suffered a thumb injury and was quickly ruled out. That p… [+634 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Angela Yang",
-      "title": "‘Heat’ director Michael Mann injured in accidental weapon discharge at LA gun range",
-      "description": "“Heat” director Michael Mann was hospitalized this weekend after an accidental gun discharge at a gun range in Los Angeles.",
-      "url": "https://www.nbcnews.com/news/us-news/michael-mann-injury-shooting-gun-range-rcna606851",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-Michael-Mann-aa-205-7d0a18.jpg",
-      "publishedAt": "2026-11-01T19:15:52Z",
-      "content": "Heat director Michael Mann was hospitalized this weekend after an accidental gun discharge at a gun range in Los Angeles.\r\nThe incident resulted in a minor, subcutaneous injury to Mann, according to … [+1432 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Glenn Erby , Ravens Wire",
-      "title": "Tyler Huntley injury forces Ravens to third-string quarterback",
-      "description": "Ravens quarterback Tyler Huntley is questionable to return with a toe injury, forcing rookie Joe Fagnano into action after Lamar Jackson exited",
-      "url": "https://ravenswire.usatoday.com/story/sports/nfl/ravens/2026/11/01/ravens-tyler-huntley-toe-injury-joe-fagnano-bills-week-8/92551559007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2cbc768948f1a37b6a3185dece0d065f7f32f8861d35087a7c9e548b69a58cd8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbaltimore_ravens_wire_usa_today_sports_articles_532%2Fac64605862cc2961aa232f662b582614.jpg",
-      "publishedAt": "2026-11-01T19:15:41Z",
-      "content": "The Baltimore Ravens' quarterback situation took another significant turn Sunday afternoon when Tyler Huntley suffered a toe injury against the Buffalo Bills, forcing undrafted rookie Joe Fagnano int… [+2970 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Brian Stultz, Duke Wire",
-      "title": "Everything Duke head coach Manny Diaz said after win vs. Boston College",
-      "description": "Duke head coach Manny Diaz discusses the Blue Devils' 47-2 victory over Boston College.",
-      "url": "https://dukewire.usatoday.com/story/sports/college/duke/football/2026/11/01/manny-diaz-duke-boston-college-quotes/92550584007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/37496293d7112701edbaec2399ac1974f88e640be4cf0a8143aac144037bac31/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fduke_wire_articles_169%2F87ca7f7789001658e850512c65c2c86d.jpg",
-      "publishedAt": "2026-11-01T19:15:12Z",
-      "content": "Opening statement\r\nYeah, happy Halloween, everybody. That was a treat right there. That's maybe as complete of a performance as we've had in the two and a half years that I've been here. Starting wit… [+4931 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Matt Urben, Falcons Wire",
-      "title": "Falcons rookie wide receiver suffers injury vs. Buccaneers",
-      "description": "Falcons rookie WR ruled out for game after suffering injury vs. Bucs",
-      "url": "https://thefalconswire.usatoday.com/story/sports/nfl/falcons/2026/11/01/falcons-wr-zachariah-branch-out-vs-bucs/92551324007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6e4fcb798b6a19c9360d74d8f4719a379a679ac3813d592d2d4cc2365e7f0ee6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fatlanta_falcon_wire_usa_today_sports_articles_463%2F0fb95089d39c5e2d03a84b0ca28d4f09.jpg",
-      "publishedAt": "2026-11-01T19:14:29Z",
-      "content": "The Atlanta Falcons are off to a slow start against the Tampa Bay Buccaneers, and things only seem to be getting worse. Rookie wide receiver Zachariah Branch suffered a hamstring injury and has offic… [+913 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Matt Hayes, USA TODAY",
-      "title": "CFP rankings arrive with chaos everywhere. Who’s safe and who’s in trouble?",
-      "description": "The first CFP rankings are almost here. Which contenders are safely in the top 12, and which teams should be sweating? See our Playoff projections.",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/11/01/first-cfp-rankings-projected-college-football-playoff-bracket-predictions/92550734007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/52606d744b376ac22ba0b54040bd6603051fafe15fa91834714c8409e98d0b43/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fe0ba41c0b78eb0a6aee9b0092ca3859d.jpg",
-      "publishedAt": "2026-11-01T19:12:43Z",
-      "content": "Now it's real. It's no longer about hype or hypotheticals. \r\nNow it's up to the 13 men and women of the College Football Playoff selection committee to make sense of it all. \r\nIt is here where I remi… [+4928 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Robert Zeglinski, For The Win",
-      "title": "Why isn't Ashton Jeanty playing much against the Jets?",
-      "description": "The Raiders' Ashton Jeanty was nowhere to be found early against the Jets. What happened here?",
-      "url": "https://ftw.usatoday.com/story/sports/nfl/2026/11/01/ashton-jeanty-raiders-not-playing-why-bench-injured/92551280007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f5401da9e3f8ea9063d62f178034d234fd2cb458edb74741e98d4da8fdf863a6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fftw_outdoors_usa_today_article_609%2F904245a7f68a87c539802d7c8df5f5d5.jpg",
-      "publishedAt": "2026-11-01T19:11:46Z",
-      "content": "With the Las Vegas Raiders trying to rebound from a four-game losing streak, they needed all hands on deck for their matchup with the New York Jets on Sunday. But curiously, starting running back Ash… [+1906 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Curt Popejoy, Steelers Wire",
-      "title": "WATCH: Steelers G Mason McCormick dumps Jared Verse on his head",
-      "description": "Check out this video of Mason McCormick dumping Browns DE Jared Verse on his head during Sunday's game.",
-      "url": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/11/01/watch-steelers-g-mason-mccormick-dumps-jared-verse-on-his-head/92551444007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9fe5a8d4bb0c6298528ff8c8a2c6e6d30eb864cc9204269478652c74e6f2bceb/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpittsburgh_steelers_wire_usa_today_sports_articles_164%2Feb4e3266b709ed57cae2894d2beb169e.jpg",
-      "publishedAt": "2026-11-01T19:11:10Z",
-      "content": "In the days leading up to this week's game between the Pittsburgh Steelers and the Cleveland Browns, Cleveland defensive end Jared Verse offered the Steelers offensive line some bulletin-board materi… [+747 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Glenn Erby , Eagles Wire",
-      "title": "Eagles defense faces a major test against Jayden Daniels in Week 8",
-      "description": "Jayden Daniels' mobility presents another difficult challenge for an Eagles defense ranked 26th against the pass and 27th against the run",
-      "url": "https://theeagleswire.usatoday.com/story/sports/nfl/eagles/2026/11/01/eagles-jayden-daniels-vic-fangio-defense-commanders-week-8/92534739007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/77f2c21c1582d8545c86e8b2d8332b9f90757979792456144e27b10cad60c640/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fphiladelphia_eagles_wire_usa_today_sports_articles_352%2F6d7331e0550eb3a7d53220dd59adc08e.jpg",
-      "publishedAt": "2026-11-01T19:11:02Z",
-      "content": "The Philadelphia Eagles have struggled to stop opposing offenses during their five-game losing streak, and Sunday's matchup against Washington Commanders quarterback Jayden Daniels presents another s… [+2853 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "tdickerson@businessinsider.com (Truman Dickerson)",
-      "title": "Young mathematicians are reconsidering their careers",
-      "description": "As AI remakes the field of math, some students say they feel like giving up.",
-      "url": "https://www.businessinsider.com/math-ai-mathematicians-careers-jobs-future-mit-2026-11#article",
-      "urlToImage": "https://i.insider.com/6ae76e4cd8cc18cf7950fef1?width=1200&format=jpeg",
-      "publishedAt": "2026-11-01T19:08:12Z",
-      "content": "Frontier AI programs can now do math better than graduate students.\r\nThose students, it turns out, aren't taking the news well.\r\nIn a paper published this week, researchers at MIT found that a vast m… [+2611 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "James Morgan, UGA Wire",
-      "title": "Georgia moves up in US LBM Coaches Poll after beating Florida",
-      "description": "Georgia moved to No. 2 in the latest US LBM Coaches Poll after beating Florida ahead of a key clash with Ole Miss.",
-      "url": "https://ugawire.usatoday.com/story/sports/college/bulldogs/football/2026/11/01/georgia-football-ranking-coaches-poll-after-beating-florida/92551313007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9395da11b5f3638d13c7dd240efcd6bdeb2e62d07185ab0cdc10cceba9863dda/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fuga_wire_usa_today_articles_805%2F4e2016021d962380480031af58239b84.jpg",
-      "publishedAt": "2026-11-01T19:08:06Z",
-      "content": "The Georgia Bulldogs have moved up to the No. 2 spot in the US LBM Coaches Poll after beating the Florida Gators 27-8 in convincing fashion. Georgia is the highest ranked one loss team in the country… [+991 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Mike Waltz reveals Cuban diplomat shoved US staffer, slapped phone away in explosive UN clash",
-      "description": "Mike Waltz says a Cuban diplomat shoved his staff member and slapped a phone away at the United Nations before Secretary Marco Rubio ordered the official expelled.",
-      "url": "https://www.foxnews.com/media/mike-waltz-reveals-cuban-diplomat-shoved-us-staffer-slapped-phone-explosive-un-clash",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Mike-Waltz-at-UN.jpg",
-      "publishedAt": "2026-11-01T19:06:10Z",
-      "content": "U.S. Ambassador to the United Nations Mike Waltz recalled on \"The Sunday Briefing\" how a heated confrontation with Cuban officials nearly turned physical, alleging that one diplomat shoved a member o… [+2358 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Brandon Walker, Broncos Wire",
-      "title": "Russell Wilson had a perfect message for Sean Payton before Broncos game",
-      "description": "Russell Wilson made his return to Denver, this time as an announcer. Here's what he said about the Broncos before the game.",
-      "url": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2026/11/01/nfl-russell-wilson-message-to-sean-payton/92550745007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0d75e2d305d63c232a6923d8393eebb29b4e9a2756bfbb0738670524be4e1f7b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdenver_broncos_wire_usa_today_sports_articles_584%2F58c115e88552de4b5989381a1b40cd23.jpg",
-      "publishedAt": "2026-11-01T19:05:38Z",
-      "content": "Former Denver Broncos quarterback and current CBS analyst Russell Wilson has made his way back to the Mile High City, this time as an announcer.\r\nWilson, who played for the Broncos from 2022-23, had … [+1368 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Gary Grumbach, Alexandra Marquez",
-      "title": "Federal judge dismisses Trump attempt to interfere in Alaska Senate race",
-      "description": "A federal judge in Alaska dismissed the Trump’s civil lawsuit against the state, which sought to separate and preserve certain ballots in the state’s upcoming Senate election",
-      "url": "https://www.nbcnews.com/politics/2026-election/federal-judge-dismisses-trump-attempt-ballots-alaska-senate-race-rcna606838",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260818-dan-sullivan-alaksa-mn-1250-eebf1e.jpg",
-      "publishedAt": "2026-11-01T19:03:25Z",
-      "content": "A federal judge in Alaska on Sunday dismissed the Trump administrations lawsuit seeking to separate and preserve certain ballots in the states upcoming Senate election, where GOP Sen. Dan Sullivan fa… [+2210 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Dan Harralson, Vols Wire",
-      "title": "AP Poll top 25 after Week 9; where Tennessee football ranks",
-      "description": "Where Tennessee ranks in the AP Poll after Week 9.",
-      "url": "https://volswire.usatoday.com/story/sports/college/volunteers/football/2026/11/01/ap-poll-top-25-college-football-rankings-after-week-9/92550303007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e5ac9ca507bd403ec37edfc7c4b446ba1a9b04d877175c8599977769103d51da/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvols_wire_usa_today_articles_138%2F5238127191ddfbe936f36b0ad0598656.jpg",
-      "publishedAt": "2026-11-01T19:01:04Z",
-      "content": "Week 9 of the 2026 college football season has concluded. Tennessee (6-2, 3-2 SEC) had an open date ahead of its final four regular-season games.\r\nThe Vols will host a top 20 SEC matchup in Week 10 a… [+868 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Angela Yang",
-      "title": "Martha Stewart responds to backlash over ‘hungry’ homeless Halloween costume",
-      "description": "Martha Stewart on Sunday responded to backlash about her Halloween costume, saying she was “distressed” to learn that her outfit, which depicted a “hungry” homeless person, had caused offense.",
-      "url": "https://www.nbcnews.com/news/us-news/martha-stewart-backlash-homeless-halloween-costume-rcna606837",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-martha-stewart-aa-113-9b7a05.jpg",
-      "publishedAt": "2026-11-01T19:00:40Z",
-      "content": "Martha Stewart on Sunday responded to backlash about her Halloween costume, saying she was distressed to learn that her outfit, which depicted a hungry homeless person, had caused offense.\r\nStewart, … [+2781 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Jaron Spor, Sooners Wire",
-      "title": "Brent Venables doesn't want to talk about staff changes after loss",
-      "description": "Brent Venables declines to discuss potential staff changes following Oklahoma's latest loss.",
-      "url": "https://soonerswire.usatoday.com/story/sports/college/sooners/football/2026/11/01/oklahoma-football-brent-venables-dismisses-staff-changes/92549041007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/02470e7be424764749322552f5b9a52a211f5367610b63e8fe38c1be470f3f53/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsooners_wire_usa_today_articles_466%2Fed67f7eb8dfdee3d86f8446836a50db5.jpg",
-      "publishedAt": "2026-11-01T19:00:24Z",
-      "content": "The Oklahoma Sooners had another abysmal performance on Saturday. The Sooners lost 42-25 at home to the South Carolina Gamecocks, marking their second straight home loss.\r\nOklahoma was dominated on b… [+1923 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Biological male competing in girls' cross-country race denies another runner and her team a trip to state",
-      "description": "A biological male runner on Camas High's girls' cross-country team displaced a Puyallup girl from state, fueling debate ahead of Initiative 638.",
-      "url": "https://www.foxnews.com/outkick-sports/biological-male-competing-girls-cross-country-race-denies-runner-team-trip-state",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Camas-Runners-Close-Up.jpg",
-      "publishedAt": "2026-11-01T18:58:48Z",
-      "content": "UNIVERSITY PLACE, Wash. When the Camas High cross-country runner's name was called, Joel Retzlaff yelled, \"That's a man!\"\r\nRetzlaff is the outspoken father of Skyview High cross-country runner Sierra… [+6042 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "JD McCarthy, FSU Wire",
-      "title": "Three-star wide receiver decommits from FSU Seminoles",
-      "description": "Three-star wide receiver Majay Thompson has decommitted from the FSU Seminoles. He committed back in June.",
-      "url": "https://fsuwire.usatoday.com/story/sports/college/fsu/recruiting/2026/11/01/fsu-football-recruiting-majay-thompson-decommit/92551142007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e0b7bf4d062a439b98ee7a2ad64ee2de2306b100cfcb3be73d787dc297e01eec/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffsu_wire_articles_374%2F2b9bd11c4a2a4fdd2e25093ebc245f2e.png",
-      "publishedAt": "2026-11-01T18:57:43Z",
-      "content": "The FSU Seminoles have suffered another blow to their 2027 recruiting class, with three-star wide receiver Majay Thompson decommitting on Sunday, announcing the news on social media. The news comes a… [+1177 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Tommy Call III, Warriors Wire",
-      "title": "Valkyries crowned WNBA Champs with Game 7 win over Dream",
-      "description": "On Saturday, the Golden State Valkyries were crowned WNBA Champions after a thrilling win over the Atlanta Dream in Game 7.",
-      "url": "https://warriorswire.usatoday.com/story/sports/nba/warriors/2026/11/01/valkyries-crowned-wnba-champs-with-game-7-win-over-dream/92550298007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/64df70d34ac94f6f12beaf1c3ce3e98bfe43e55cdeeff6cbeac094d0e55f0f40/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwarriors_wire_usa_today_sports_articles_759%2Fc738efe90fab8b84bb70e277c39ff2a5.jpg",
-      "publishedAt": "2026-11-01T18:52:44Z",
-      "content": "Although the Golden State Warriors had the day off, Chase Center was still at the center of the sports world on Saturday afternoon. In only their second season in franchise history, the Golden State … [+1888 chars]"
-    }
-  ]
+    "status": "ok",
+    "totalResults": 120,
+    "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Enes Abuomer, Kristina Harazim",
+            "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+            "description": "US president warns Iran to make a deal as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261101__D6368MJ__v1__HighRes__IranIsraelUsWar-1793576931.jpg?resize=1920%2C1440",
+            "publishedAt": "2026-11-02T00:00:00Z",
+            "content": "blinking-dot\r\nLive updatesLive updates, \r\nUS president warns Iran to make a deal as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz."
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": null,
+            "title": "Nine people dead after Learjet crashes in Florida",
+            "description": "A private jet travelling from Austin, Texas, to the Bahamas crashed in Greenacres, near West Palm Beach, Florida.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793575722.jpg?resize=1920%2C1067&quality=80",
+            "publishedAt": "2026-11-01T23:29:48Z",
+            "content": "A private jet travelling from Austin, Texas, to the Bahamas crashed in Greenacres, near West Palm Beach, Florida. All nine people on board were killed."
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Evan Semones",
+            "title": "Why governors’ races are important in the 2026 US midterms",
+            "description": "Historic turnover in this election will allow dozens of states to vote on significant changes in leadership.",
+            "url": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae38437129fc-1793295415.jpg?resize=1920%2C1440",
+            "publishedAt": "2026-11-01T23:24:56Z",
+            "content": "Much of the attention ahead of Tuesdays midterm elections has fallen on the battle for control of the United States Congress.\r\nBut key state-level races are also unfolding, with far-reaching conseque… [+5704 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+            "description": "The mission, known as MINURSO, has been in place in the disputed region since a ceasefire in 1991.",
+            "url": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20201125__8VV7Z4__v2__HighRes__MoroccoUnMauritaniaWsaharaConflict-1793570486.jpg?resize=1920%2C1440",
+            "publishedAt": "2026-11-01T23:19:51Z",
+            "content": "United Nations Secretary-General Antonio Guterres has warned of potential escalation of hostilities in the disputed Western Sahara region after the expiry of a 35-year-long peacekeeping mission.\r\nThe… [+2946 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "High-ranking US Democratic senator suffers stroke",
+            "description": "Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is 'alert' after a stroke.",
+            "url": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/murphy-1790357086.jpg?resize=1920%2C1440",
+            "publishedAt": "2026-11-01T22:32:54Z",
+            "content": "United States Senator Chris Murphy, a high-ranking Democratic legislator, has suffered a stroke but is awake and alert, his senior aide said.\r\nMurphy remained hospitalised on Sunday after seeking med… [+1372 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": null,
+            "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+            "description": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
+            "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae7ab5a84eb-1793567578.jpg?resize=1920%2C1440",
+            "publishedAt": "2026-11-01T22:15:14Z",
+            "content": "The longest multi-day truce between Russia and Ukraine, limited to Ukraines eastern Kherson region, has come to an end with no violations reported by either side, but also no sign of an extension.\r\nT… [+4859 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": null,
+            "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
+            "description": "US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793568568.jpg?resize=1200%2C675",
+            "publishedAt": "2026-11-01T21:29:43Z",
+            "content": "US Democrat Haley Stevens from Michigan was heckled as a traitor, after endorsing Republican Mike Rogers in the US Senate contest against her partys candidate Abdul El-Sayed. Stevens lost to El-Sayed… [+34 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": null,
+            "title": "Thousands displaced from Hebron as Israel carries on siege",
+            "description": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793568515.jpg?resize=1920%2C1080&quality=80",
+            "publishedAt": "2026-11-01T21:28:47Z",
+            "content": "Almost 5,000 people have been displaced as a result of Israels military siege on the city of Hebron in the occupied West Bank. The operation began on Friday, October 23, after two Palestinians shot t… [+54 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": null,
+            "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+            "description": "Canadian PM Mark Carney announces progress in Canada-US trade deal talks ahead of Tuesday's US midterm elections.",
+            "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae2ef6ef3bde-1793257327.jpg?resize=1200%2C675",
+            "publishedAt": "2026-11-01T21:01:33Z",
+            "content": "Canadian Prime Minister Mark Carney has announced progress towards a future trade deal with the United States, which could help ease tensions between the two North American neighbours.\r\nThe Sunday an… [+1682 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
+            "description": "Stevens’s endorsement of Republican Mike Rogers comes after a bitter dispute with Democratic nominee Abdul El-Sayed.",
+            "url": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae79c48-1793563720.jpg?resize=1920%2C1440",
+            "publishedAt": "2026-11-01T21:00:52Z",
+            "content": "A Democratic congresswoman has thrown her support behind a Republican in one of the most closely watched races in the US midterm elections, just two days before voters head to the polls.\r\nHaley Steve… [+5746 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By ALANNA DURKIN RICHER, JOSHUA GOODMAN and BECKY BOHRER - Associated Press",
+            "title": "Justice Department seeks to isolate Alaska ballots as criminal probe underway over Senate candidate",
+            "description": "The U.S. Department of Justice is pushing for a court order to isolate certain Alaska ballots to investigate potential voter confusion, while federal officials confirmed the existence of a criminal probe over a Senate candidate who shares a name with…",
+            "url": "https://apnews.com/article/alaska-sullivan-peltola-senate-election-88259e40d70a7e4f535e01a2b88489aa",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/1/9b/19b531c6-1b0d-56f9-ae5f-bc7fbf8dc150/6ae5026b6e2a0.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-10-31T04:29:00Z",
+            "content": "FILE - This combination photo shows Sen. Dan Sullivan, R-Alaska, left, in Palmer, Alaska, Aug. 17, 2026, and a candidate in Alaska's Senate race, Dan Sullivan, right, in Petersburg, Alaska, July 3, 2… [+3 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By NICOLE WINFIELD - Associated Press",
+            "title": "Leo XIV has become the first pope in history to vote in a US general election",
+            "description": "Leo XIV has become the first pope to vote in a U.S. general election, casting a mail-in ballot in Chicago. The Vatican confirmed Friday that Leo, born Robert Prevost, exercised his right as a U.S. citizen, emphasizing his belief in…",
+            "url": "https://apnews.com/article/vatican-pope-vote-us-election-cebcf71652c254383a39113c71aedace",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/d/20/d20db190-e33b-5fd5-a062-e137e2f1605d/6ae4c48f313b3.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-10-30T16:23:00Z",
+            "content": "VATICAN CITY (AP) Leo XIV has become the first pope to vote in a U.S. general election, casting a mail-in ballot in a contest that will decide America's future as the Trump era slowly comes to an end… [+9603 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By JOEY CAPPELLETTI and SIMRAN PARWANI - Associated Press",
+            "title": "Early voting jumps across Senate battlegrounds as millions more Americans vote ahead of Election Day",
+            "description": "Early voting is surging ahead of Tuesday’s midterm elections, particularly in states with competitive Senate races. An Associated Press analysis shows more than 43 million Americans have already cast ballots, nearly 10 million more than at the same point in…",
+            "url": "https://apnews.com/article/election-early-voting-midterms-3f7d5c378b3d9bff5cde4604a55b9c9a",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/e/b8/eb8fae78-2cf7-5911-979b-99fa195a5ed3/6ae498f990fb5.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-10-30T16:05:00Z",
+            "content": "WASHINGTON (AP) Early voting is significantly outpacing the last midterm election, with millions more Americans casting ballots in advance and particularly sharp increases in states hosting competiti… [+5361 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By CARA ANNA and IBRAHIM HAZBOUN - Associated Press",
+            "title": "Difficult negotiations lie ahead in Israel after Netanyahu's bloc lost its parliamentary majority",
+            "description": "Israel's final election results show Prime Minister Benjamin Netanyahu's bloc lost its majority in parliament. It won 53 seats in Tuesday's voting, while the main opposition secured 48. Arab-led parties achieved a historic 19 seats. Parties must now negotiate…",
+            "url": "https://apnews.com/article/israel-elections-netanyahu-results-eisenkot-arabs-3a793c0d07fdfe515390524b849d8674",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/2/18/218f0428-54bb-50ab-be1b-fc20a4aff019/6ae44810127af.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-10-30T13:27:27Z",
+            "content": "JERUSALEM (AP) Israel's final election results confirmed Prime Minister Benjamin Netanyahus bloc lost its parliamentary majority and that weeks of difficult negotiations among very different parties,… [+6052 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By STEVE PEOPLES - AP National Politics Writer",
+            "title": "A midterm crossroads for both parties eyeing the beginning of the end of the Trump era",
+            "description": "The nation’s major political parties are at a crossroads. President Donald Trump is facing the prospect of a voter rebellion Tuesday that could force Republican officials to rethink their allegiance to the 80-year-old lame-duck leader and his “Make America Gr…",
+            "url": "https://apnews.com/article/trump-era-democrats-republicans-midterms-65c1ca0e134ea5ed44566a1dccc684fc",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/7/16/71624902-7e5d-5e45-9ac3-d290bda57d4d/6ae489b4857f2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-10-30T04:14:00Z",
+            "content": "NEW YORK (AP) The nation's major political parties are at a crossroads.\r\nA decade after he began to remake the Republican Party in his image, President Donald Trump is facing the prospect of a voter … [+7244 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By MICHAEL CASEY - Associated Press",
+            "title": "The police said Sandra Birchmore's death was a suicide. Then the FBI accused a cop of murder",
+            "description": "BOSTON (AP) — When Sandra Birchmore was found dead in her Massachusetts home, police quickly decided it was a suicide. From the start, her friends didn't believe it.",
+            "url": "https://apnews.com/article/police-officer-massachusetts-killing-sandra-birchmore-76069b1c984c3add28879970bcdf1764",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/7/66/766b8247-2ae1-502f-945e-43f2b9d95266/6ae41b5398a94.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-10-30T04:02:00Z",
+            "content": "BOSTON (AP) When Sandra Birchmore was found dead in her Massachusetts home, police quickly decided it was a suicide. From the start, her friends didn't believe it.\r\nThe 23-year-old had recently learn… [+6942 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By MARK KENNEDY - AP Entertainment Writer",
+            "title": "Patrick Stewart, stage giant also of ‘Star Trek’ and 'X-Men' fame, dies at 86",
+            "description": "Patrick Stewart, the classically trained stage actor who scaled the Shakespearean canon and added gravitas to a “Star Trek” franchise and the “X-Men” films, has died. He was 86.",
+            "url": "https://apnews.com/article/patrick-stewart-dies-8b38054ff74d4187a32158d78e345ad7",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/a/91/a916cfb9-8756-5c10-b1c8-5a39243ed527/6ae3a5ed6dfad.image.jpg?crop=1766%2C927%2C0%2C122&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-10-29T20:16:11Z",
+            "content": "Patrick Stewart, the classically trained stage actor who scaled the Shakespearean canon and added gravitas to a Star Trek franchise and the X-Men films, has died. He was 86.\r\nStewart died Wednesday i… [+6927 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By LINDSEY BAHR - AP Film Writer",
+            "title": "Elke Sommer, German-born star of ‘A Shot in the Dark’ and ‘The Prize,’ dies at 85",
+            "description": "Elke Sommer, the striking blonde bombshell of German descent who was a mainstay of 1960s Hollywood comedies and espionage movies including “The Prize” and “A Shot in the Dark,” has died. She was 85.",
+            "url": "https://apnews.com/article/elke-sommer-dies-05ef6ecfe095939515991b3553e5ca55",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/9/55/955e98d8-d7fd-58b1-ab57-8330c33a8f20/6ae37ff1c0739.image.jpg?crop=1784%2C937%2C0%2C112&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-10-29T18:47:00Z",
+            "content": "Elke Sommer, the striking blonde bombshell of German descent who was a mainstay of 1960s Hollywood comedies and espionage movies including The Prize and A Shot in the Dark, has died. She was 85.\r\nSom… [+5695 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By CHRISTOPHER RUGABER - AP Economics Writer",
+            "title": "Strong growth and inflation paints mixed picture of economy days before midterm elections",
+            "description": "The U.S. economy posted strong growth in the July-September quarter yet inflation remained stubbornly high last month, government reports showed Thursday, painting a mixed picture less than a week before midterm elections in which the uncomfortably high cost …",
+            "url": "https://apnews.com/article/consumer-prices-inflation-gasoline-energy-trump-c32cfa8b85ae53ceb7b1cc557d3b7400",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/f/57/f57833cc-f39e-5865-9df1-e0499ac363b5/6ad32524c9e7c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-10-29T16:45:05Z",
+            "content": "WASHINGTON (AP) U.S. economic growth was notably strong from July to September, yet inflation accelerated at the same time, new data showed Thursday, painting a mixed picture about the country's econ… [+6149 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By MARY CLARE JALONICK - Associated Press",
+            "title": "Senate is skeptical about making daylight saving time permanent despite Trump's pressure",
+            "description": "Get ready to fall back. The Senate is unlikely to act on a House-passed bill that would make daylight saving time permanent, despite pressure from President Donald Trump and Americans who don’t like having to change their clocks twice a…",
+            "url": "https://apnews.com/article/daylight-saving-time-senate-trump-f9e065a6f5a3187731ea794b353c3a4f",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/9/c2/9c226fcc-9004-5faa-b847-861f5eaa5593/6ae3284505f41.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-10-29T11:02:00Z",
+            "content": "WASHINGTON (AP) The Senate is unlikely to act before the end of the year on a House-passed bill that would make daylight saving time permanent, defying President Donald Trump and dashing the hopes of… [+5795 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Rice is a rounded midfielder, but could be more selfish - Murphy",
+            "description": "BBC Sport's Kelly Cates and Micah Richards discuss how rounded Declan Rice has become in Arsenal's midfield, while Danny Murphy argues that if he was more selfish he would score more goals.",
+            "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0f15/live/59dd6000-d63f-11f1-93e1-3b657b665bcf.jpg",
+            "publishedAt": "2026-11-02T00:00:21Z",
+            "content": "BBC Sport's Kelly Cates and Micah Richards discuss how rounded Declan Rice has become in Arsenal's midfield, while Danny Murphy argues that if he was more selfish he would score more goals.\r\nMATCH RE… [+72 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
+            "description": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards analyse how good Ezri Konsa has been for Arsenal after signing from Aston Villa in the summer, especially in their 1-0 Premier League win against Liverpool at Anfield.",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3de5/live/bf9d3990-d63c-11f1-93e1-3b657b665bcf.jpg",
+            "publishedAt": "2026-11-02T00:00:11Z",
+            "content": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards analyse how good Ezri Konsa has been for Arsenal after signing from Aston Villa in the summer, especially in their 1-0 Premier League win agai… [+107 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+            "description": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by.",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6cdf/live/7301a9f0-d62c-11f1-a701-fddedf244c16.jpg",
+            "publishedAt": "2026-11-02T00:00:03Z",
+            "content": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel… [+97 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Judge dismisses Trump administration's lawsuit over two Dan Sullivans in Alaska election",
+            "description": "The Department of Justice had sought to delay certifying results in Alaska's crucial Senate race if the Republican incumbent loses.",
+            "url": "https://www.bbc.co.uk/news/articles/cv4g1y02jejro",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c096/live/0f6bdc50-d62f-11f1-b085-b9e65bc8bfff.jpg",
+            "publishedAt": "2026-11-01T23:43:49Z",
+            "content": "A judge has tossed a lawsuit by the Trump administration that sought to delay certifying results in Alaska's crucial Senate race if the Republican incumbent loses.\r\nThe suit by the US Department of J… [+2610 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Don't get caught out by new Buy Now Pay Later rules",
+            "description": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+            "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3c9/live/8607fcf0-d462-11f1-ab12-eb0c94f5b382.jpg",
+            "publishedAt": "2026-11-01T23:34:49Z",
+            "content": "If you are struggling to make repayments on any type of loan - BNPL or otherwise - you should seek help before things spiral out of control.\r\nThe government-backed, independent, MoneyHelper website, … [+468 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "Coral Barry",
+            "title": "Detroit linebacker Campbell taken to hospital with neck injury",
+            "description": "Jack Campbell was placed on a stretcher and carted off the pitch during the Detroit Lions' game on Sunday, before being taken to hospital.",
+            "url": "https://www.bbc.co.uk/sport/american-football/articles/ck9qz29w2p90o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7f29/live/b0e20a40-d644-11f1-be49-c7d51bdcf05a.jpg",
+            "publishedAt": "2026-11-01T23:04:23Z",
+            "content": "Detroit Lions linebacker Jack Campbell was taken to hospital to be treated for a neck injury after being hurt during an NFL game against the Minnesota Vikings on Sunday.\r\nCampbell's head was struck w… [+1047 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Man Utd eye Barcelona's Balde - Monday's gossip",
+            "description": "Alejandro Balde could leave Barcelona, sparking interest from Manchester United, Liverpool shortlist want Murillo and Nico Schlotterbeck, Real Madrid eye Bart Verbruggen, plus more.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/97eb/live/0cb45b70-d645-11f1-be49-c7d51bdcf05a.png",
+            "publishedAt": "2026-11-01T23:00:21Z",
+            "content": "Alejandro Balde could leave Barcelona, sparking interest from Manchester United, Liverpool have shortlisted Murillo and Nico Schlotterbeck as Virgil van Dijk replacements, while Real Madrid are eyein… [+2139 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "Andrew Benson",
+            "title": "'We've got big problems' - Hamilton says Ferrari need 'serious talks'",
+            "description": "Lewis Hamilton says Ferrari need \"some serious talks behind closed doors\" after fighting between their two drivers in Mexico.",
+            "url": "https://www.bbc.co.uk/sport/formula1/articles/cmwy7dl879gzo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/acfa/live/c64d1030-d646-11f1-93e1-3b657b665bcf.jpg",
+            "publishedAt": "2026-11-01T22:54:52Z",
+            "content": "Lewis Hamilton says Ferrari \"have to have some serious talks behind closed doors\" after fighting between their two drivers cost them victory in the Mexico City Grand Prix.\r\nLeclerc cut a chicane on t… [+1515 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Rice relishing title race 'anxiety' after win at Liverpool",
+            "description": "Declan Rice joins BBC Sport's Kelly Cates, Danny Murphy and Micah Richards to analyse how Arsenal earned their first Premier League victory at Liverpool in 14 years.",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4707/live/d5373530-d632-11f1-b441-2b33b063138f.jpg",
+            "publishedAt": "2026-11-01T22:50:05Z",
+            "content": "Declan Rice joins BBC Sport's Kelly Cates, Danny Murphy and Micah Richards to analyse how Arsenal earned their first Premier League victory at Liverpool in 14 years.\r\nMATCH REPORT: Premier League - L… [+48 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Rugby Union Weekly",
+            "description": "What next for England after the WXV Global Series?",
+            "url": "https://www.bbc.co.uk/sounds/play/p0pks5xf?at_campaign=rss",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0lwzcxx.jpg",
+            "publishedAt": "2026-11-01T22:35:00Z",
+            "content": "Available for 29 days\r\nSara Orchard and Ugo Monye are joined by former Scotland captain Lisa Martin to look back on the WXV Global Series, asking what next for England after losing their long unbeate… [+835 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tdickerson@businessinsider.com (Truman Dickerson)",
+            "title": "OpenAI wants everyone to call AI data centers 'compute campuses'",
+            "description": "An OpenAI spokesperson said the term better represents the \"role\" of AI infrastructure.",
+            "url": "https://www.businessinsider.com/openai-ai-data-centers-rebrand-compute-campuses-midterms-2026-11#article",
+            "urlToImage": "https://i.insider.com/6ae7a569f3bee449b3d2a0aa?width=1200&format=jpeg",
+            "publishedAt": "2026-11-01T22:28:08Z",
+            "content": "OpenAI doesn't want to call them \"data centers\" anymore.\r\nInstead, the ChatGPT maker plans to propose a new, more chic name for the behemoth factories that power your chatbot queries.\r\nThat new name … [+1223 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Truman Dickerson",
+            "title": "9 killed after private jet crashes near Palm Beach, authorities say",
+            "description": "The private jet had departed Austin and was on its way to the Bahamas, authorities said.",
+            "url": "https://www.businessinsider.com/private-jet-crash-florida-2026-11#article",
+            "urlToImage": "https://i.insider.com/6ae7ad32f3bee449b3d2a0b7?width=800&format=jpeg",
+            "publishedAt": "2026-11-01T21:18:25Z",
+            "content": "<ul><li>A private jet crashed in South Florida on Sunday.</li><li>All nine people aboard were killed, Transportation Secretary Sean Duffy said on X.</li><li>Their identities have not yet been release… [+604 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lauren Edmonds",
+            "title": "Elon Musk says he is taking over an old Spam factory and a gun range to expand his Colossus 2 AI complex",
+            "description": "Elon Musk named the new AI facilities at the Colossus 2 campus \"Spam\" and \"Gun Range.\"",
+            "url": "https://www.businessinsider.com/elon-musk-colossus-2-campus-spam-gun-range-2026-11#article",
+            "urlToImage": "https://i.insider.com/6ae77349f3bee449b3d2a07a?width=1200&format=jpeg",
+            "publishedAt": "2026-11-01T21:06:39Z",
+            "content": "Elon Musk said his company and contractors are making \"good progress\" at the Colossus 2 site.Finn Gomez/Getty Images\r\n<ul><li>Elon Musk is expanding Colossus 2 in Tennessee.</li><li>Musk said two add… [+1844 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Erin Kuhn-Krueger",
+            "title": "My 25-year-old self wouldn't recognize this life. And I think that's the point.",
+            "description": "I spent years chasing corporate success. After becoming a mom of three, I started my own business and redefined what success means to me.",
+            "url": "https://www.businessinsider.com/left-corporate-career-mom-three-redefined-success-2026-11#article",
+            "urlToImage": "https://i.insider.com/6adf64ddc8572251b197ffe2?width=1200&format=jpeg",
+            "publishedAt": "2026-11-01T20:57:01Z",
+            "content": "The author's career is not what she thought it would look like when she was younger.Courtesy of the author\r\n<ul><li>I spent decades building a marketing career, managing teams and budgets exceeding $… [+4555 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lauren Edmonds",
+            "title": "Microsoft AI chief says AI is not conscious and we should keep it that way",
+            "description": "Microsoft AI CEO Mustafa Suleyman said developers should only build AI models that \"are not conscious and not deserving of rights.\"",
+            "url": "https://www.businessinsider.com/mustafa-suleyman-microsoft-ai-consciousness-2026-11#article",
+            "urlToImage": "https://i.insider.com/6ae780f8f3bee449b3d2a08b?width=1200&format=jpeg",
+            "publishedAt": "2026-11-01T19:45:17Z",
+            "content": "Microsoft AI CEO Mustafa Suleyman cautioned against building conscious superintelligence on X.Stephen Brashear/Getty Images\r\n<ul><li>Microsoft AI CEO Mustafa Suleyman said developing conscious AI is … [+2447 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tdickerson@businessinsider.com (Truman Dickerson)",
+            "title": "Young mathematicians are reconsidering their careers",
+            "description": "As AI remakes the field of math, some students say they feel like giving up.",
+            "url": "https://www.businessinsider.com/math-ai-mathematicians-careers-jobs-future-mit-2026-11#article",
+            "urlToImage": "https://i.insider.com/6ae76e4cd8cc18cf7950fef1?width=1200&format=jpeg",
+            "publishedAt": "2026-11-01T19:08:12Z",
+            "content": "Frontier AI programs can now do math better than graduate students.\r\nThose students, it turns out, aren't taking the news well.\r\nIn a paper published this week, researchers at MIT found that a vast m… [+2611 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Blythe Chadim)",
+            "title": "After living in California for decades, I've found the perfect place to visit when I crave coastal Mediterranean vibes",
+            "description": "I grew up in California. As a local, my favorite city in the US that feels like Europe is Newport Beach. Here's what to do there and where to stay.",
+            "url": "https://www.businessinsider.com/california-favorite-city-feels-like-europe-newport-beach-local-tips-2026-11#article",
+            "urlToImage": "https://i.insider.com/6ae0cf73ca24d51c5f89f5a3?width=1200&format=jpeg",
+            "publishedAt": "2026-11-01T18:15:01Z",
+            "content": "Growing up in the California Bay Area, I've been to many beach towns, and they all have their own distinct character.\r\nSanta Cruz is known for laid-back surf culture, but just a few miles down the co… [+5505 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Truman Dickerson",
+            "title": "'SNL' goes after AI, startup culture, and 'predatory tech guys'",
+            "description": "'SNL' fired shots at AI startup culture in its latest episode.",
+            "url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11#article",
+            "urlToImage": "https://i.insider.com/6ae76860f3bee449b3d2a063?width=1200&format=jpeg",
+            "publishedAt": "2026-11-01T17:13:48Z",
+            "content": "'Saturday Night Live' took aim at startup culture and AI across multiple sketches during its Halloween broadcast.: Will Heath/NBC via Getty Images\r\n<ul><li>'SNL' fired shots at startup culture in its… [+1996 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Lauren Crosby Medlicott)",
+            "title": "I wanted a part-time job while homeschooling my 3 kids. Then my cake pop side hustle took off.",
+            "description": "Jessica Redford started a cake pop business while homeschooling three kids. She now sells out weekly and has found a creative outlet.",
+            "url": "https://www.businessinsider.com/homeschool-mom-started-business-instead-part-time-job-2026-11#article",
+            "urlToImage": "https://i.insider.com/6ada2b43510d67c758d85c9f?width=946&format=jpeg",
+            "publishedAt": "2026-11-01T16:52:01Z",
+            "content": "This as-told-to essay is based on a conversation with Jessica Redford. It has been edited for length and clarity.\r\nLast September, a shopping center opened down the street from me. It had a grocery s… [+4002 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alcynna Lloyd",
+            "title": "Even millionaires are renting. Here are 10 cities they're flocking to.",
+            "description": "As companies head South, they're bringing their workers with them. It's fueling a surge in millionaire renters across several Southern cities.",
+            "url": "https://www.businessinsider.com/us-cities-most-millionaire-renters-2026-11#article",
+            "urlToImage": "https://i.insider.com/6ae36ebf9bdea7d1607d2bec?width=1200&format=jpeg",
+            "publishedAt": "2026-11-01T16:24:01Z",
+            "content": "A luxury building in Brickell, a wealthy neighborhood in Miami with many businesses and residential buildings.ajansen/Getty Images\r\n<ul><li>Census data shows that the number of millionaire renter hou… [+4360 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kaia  Hubbard",
+            "title": "Sanders says GOP rhetoric about El-Sayed \"should appall\" Americans",
+            "description": "Sen. Bernie Sanders, who's supported El-Sayed's campaign, specifically referred to comments made by Republican surrogates, including President Trump and GOP Sen. Ted Cruz of Texas",
+            "url": "https://www.cbsnews.com/news/bernie-sanders-abdul-el-sayed-campaign-republican-rhetoric/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/01/9d4e3acc-e1ce-4cf7-8a99-f74115ea3053/thumbnail/1200x630/6cdae378d169231b9a1e1eaef90eefe8/1793556795338.png",
+            "publishedAt": "2026-11-01T20:50:20Z",
+            "content": "Washington — Sen. Bernie Sanders decried some of the rhetoric from Republicans in the Michigan Senate race, as the GOP has leaned in heavily on attacks on Democratic candidate Abdul El-Sayed's ethnic… [+3869 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Matthew  Ablon",
+            "title": "Jet from Texas crashes near homes in Palm Beach, Florida, FAA says",
+            "description": "Details about what may have caused the crash had not yet been shared.",
+            "url": "https://www.cbsnews.com/miami/news/texas-jet-florida-crash-11-1-2026/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2021/12/10/71f9e653-1344-4ead-92ad-9bcd7e1c73c7/thumbnail/1200x630/d87686fcca5b284fd529ff2d8350cf7c/GettyImages-1291135403.jpg",
+            "publishedAt": "2026-11-01T20:43:00Z",
+            "content": "A jet with nine people aboard crashed near homes in Florida late Sunday afternoon, according to the Federal Aviation Administration (FAA).\r\nThe agency said a Learjet 60 crashed in Palm Beach County, … [+474 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Cristian  Benavides",
+            "title": "Creditor has \"taken control\" of forever cruise",
+            "description": "Residents of Villa Vie Odyssey, which remains stuck in Cambodia, have been informed the cruise ship is now under control of its lender, CBS News has learned.",
+            "url": "https://www.cbsnews.com/news/creditor-taken-control-forever-cruise-message-to-residents/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/29/843ce3d8-ef58-4304-a1a0-11e05f15fb50/thumbnail/1200x630/f1373230e96edc8aae8c5ea497dbb31d/gettyimages-2301851494.jpg",
+            "publishedAt": "2026-11-01T19:42:09Z",
+            "content": "Residents of Villa Vie Odyssey — which remains stuck in Cambodia — have been informed the cruise ship is now under control of its lender, according to a message sent to residents and obtained by CBS … [+4571 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 1, 2026",
+            "description": "On this \"Face the Nation with Margaret Brennan\" broadcast, Sen. Bernie Sanders and Pennsylvania Gov. Josh Shapiro join Margaret Brennan.",
+            "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-11-01-2026/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/01/a5fbf80f-8e0a-4ec8-a362-2767e3aacfa3/thumbnail/1200x630/480309dbe8564586921666a24c224c29/1793561397424.png",
+            "publishedAt": "2026-11-01T19:31:33Z",
+            "content": "On this \"Face the Nation with Margaret Brennan\" broadcast, moderated by Margaret Brennan: \r\n<ul><li>Sen. Bernie Sanders, Independent of Vermont </li><li>Rep. Mike Lawler, Republican of New York </li>… [+50327 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Jacob  Rosen",
+            "title": "Judge tosses lawsuit seeking to delay certification of Alaska Senate race",
+            "description": "The Justice Department argued that Daniel J. Sullivan's name on the ballot potentially diverted voters, and the Democrat running in the race would benefit as a result.",
+            "url": "https://www.cbsnews.com/news/judge-doj-lawsuit-alaska-senate-race-dan-sullivan/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/01/3375f8fe-9dad-415e-8815-649c695c1025/thumbnail/1200x630/c1c6754a2d2ec1db4685058b876cdbe8/ap26305115849912.jpg",
+            "publishedAt": "2026-11-01T18:39:52Z",
+            "content": "A federal judge in Alaska has thrown out the Trump administration's lawsuit seeking to block certification of the state's Senate election results in this week's midterm elections if the Republican in… [+1758 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Transcript: Sen. Bernie Sanders on \"Face the Nation with Margaret Brennan,\" Nov. 1, 2026",
+            "description": "The following is the transcript of the interview with Sen. Bernie Sanders, Independent of Vermont, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 1, 2026.",
+            "url": "https://www.cbsnews.com/news/bernie-sanders-face-the-nation-transcript-11-01-2026/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/01/9d4e3acc-e1ce-4cf7-8a99-f74115ea3053/thumbnail/1200x630/6cdae378d169231b9a1e1eaef90eefe8/1793556795338.png",
+            "publishedAt": "2026-11-01T18:13:58Z",
+            "content": "The following is the transcript of the interview with Sen. Bernie Sanders, Independent of Vermont, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 1, 2026.\r\nMARGARET BRENNAN: Good morni… [+9523 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Transcript: David Becker on \"Face the Nation with Margaret Brennan,\" Nov. 1, 2026",
+            "description": "The following is the transcript of the interview with David Becker, CBS News election law contributor and the executive director of the Center for Election Innovation and Research, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 1, 2026.",
+            "url": "https://www.cbsnews.com/news/david-becker-election-law-face-the-nation-transcript-11-01-2026/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/01/5991a199-6159-4977-8466-714be19eb104/thumbnail/1200x630/600366d48bc696463f493ba8039063e3/1793556634262.png",
+            "publishedAt": "2026-11-01T18:11:39Z",
+            "content": "The following is the transcript of the interview with David Becker, CBS News election law contributor and the executive director of the Center for Election Innovation and Research, that aired on \"Fac… [+8024 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kaia  Hubbard",
+            "title": "Sen. Chris Murphy hospitalized following stroke",
+            "description": "Democratic Sen. Chris Murphy of Connecticut was hospitalized on Saturday after experiencing a stroke, his office said.",
+            "url": "https://www.cbsnews.com/news/chris-murphy-stroke-hospitalized/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/01/1ecf1c7f-4989-453e-bdf1-8e510231dafe/thumbnail/1200x630/58cbceecef5c5a2849f0f8c3d13a0d81/gettyimages-2289530066.jpg",
+            "publishedAt": "2026-11-01T17:52:42Z",
+            "content": "Washington — Democratic Sen. Chris Murphy of Connecticut was hospitalized on Saturday after experiencing a stroke, his office said. \r\n\"Yesterday afternoon, Senator Murphy started experiencing numbnes… [+741 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Filmmaker Michael Mann suffers \"superficial injury\" at gun range",
+            "description": "Filmmaker Michael Mann was injured at a gun range in Los Angeles, his representative said.",
+            "url": "https://www.cbsnews.com/news/filmmaker-michael-mann-superficial-injury-gun-range/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/01/3dda663f-e150-4de1-a1dc-e2eaa4e92a1d/thumbnail/1200x630/743a418c6942d1ce8c36e10849afc147/ap26305559610312.jpg",
+            "publishedAt": "2026-11-01T17:26:24Z",
+            "content": "Michael Mann, a filmmaker known for the classic crime drama \"Heat,\" was injured at a gun range in Los Angeles on Saturday, his representative told CBS News.\r\nThe representative said on Sunday that Ma… [+724 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kaia  Hubbard",
+            "title": "Stevens appears with Rogers amid rift with El-Sayed",
+            "description": "Haley Stevens, who had the support of the Senate Democrats' campaign arm in the primary, had previously said she was supporting the Democratic ticket.",
+            "url": "https://www.cbsnews.com/news/haley-stevens-mike-rogers-together-church-abdul-el-sayed-michigan-senate/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/01/5cce9589-156d-48ff-b177-dfdb974e228b/thumbnail/1200x630/9e1ee992965dad70fcf5e3f5fa6881af/ap26305615391128.jpg",
+            "publishedAt": "2026-11-01T17:15:49Z",
+            "content": "Democratic Rep. Haley Stevens appeared with Republican Senate candidate Mike Rogers Sunday amid a rift with Democratic Senate candidate Abdul El-Sayed that has come front and center in the final spri… [+1702 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ivana Kottasová",
+            "title": "Russia’s security service detains a teenager planning a ‘terror attack’ after a US tip-off | CNN",
+            "description": "A suspect allegedly planning a terror attack on a major Moscow museum was arrested by Russian authorities after a tip-off from the United States, Russia’s security agency FSB announced on Sunday.",
+            "url": "https://www.cnn.com/2026/11/01/europe/russia-terror-attack-us-warning-intl",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-864999376.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-11-01T20:15:06Z",
+            "content": "A suspect allegedly planning a terror attack on a major Moscow museum was arrested by Russian authorities after a tip-off from the United States, Russias security agency FSB announced on Sunday.\r\nThe… [+2824 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "هذا ما فعله محمد صلاح مع طفلة اقتحمت احتفالات طرابزون سبور",
+            "description": "فاز محمد صلاح ورفاقه في نادي طرابزون سبور على نادي غازي عنتاب بنتيجة 0/2، على أرض الأول، الأحد، ضمن مباريات الأسبوع العاشر من الدوري التركي.",
+            "url": "https://arabic.cnn.com/sport/article/2026/11/01/mohamed-salah-child-trabzonspor",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/348686.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-11-01T18:13:33Z",
+            "content": "(CNN)-- 0/2 .\r\n2027/2026.\r\n.\r\n.\r\n(34 ) 13 2027/2026 10 5 .\r\n22 ."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "البيت الأبيض يزعم أن تغير النتائج مع فرز الأصوات أمر غير طبيعي",
+            "description": "زعم البيت الأبيض-في ادعاءٍ عارٍ عن الصحة- أنه ليس من الطبيعي أن تتغير النتائج الانتخابية مع استمرار فرز الأصوات، في أحدث محاولة من إدارة الرئيس دونالد ترامب لإثارة الشكوك بشأن العملية الانتخابية، قبيل انتخابات التجديد النصفي، الثلاثاء.",
+            "url": "https://arabic.cnn.com/world/article/2026/11/01/white-house-falsely-not-normal-results-shift-ballots-counted",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/348672.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-11-01T14:19:41Z",
+            "content": "(CNN)-- - - .\r\n\" \" (PBS News) \"\" : \" . \".\r\n.\r\n\" \" : \" \".\r\n- - .\r\n\" \" .\r\n.\r\n(Bipartisan Policy Center) . ."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "قتيل و8 مصابين.. إطلاق نار يحوّل احتفالات مباراة جامعية إلى مأساة في أمريكا",
+            "description": "قُتل شخص واحد على الأقل وأُصيب 8 آخرون في حادث إطلاق نار وقع عقب مباراة لكرة القدم الجامعية في مدينة برمنغهام بولاية ألاباما الأمريكية، مساء السبت، بحسب مسؤولين.",
+            "url": "https://arabic.cnn.com/world/article/2026/11/01/1-dead-8-injured-shooting-after-college-football-game-alabama",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/348662.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-11-01T12:30:17Z",
+            "content": "(CNN)-- 8 .\r\n\" \" (Legion Field) 7:50 .\r\n\" \" (Magic City Classic) \" \" (Alabama A&amp;M) \" \" (Alabama State) .\r\n.\r\n.\r\n\" \" (Florida A&amp;M) 11 6 .\r\n\" \".\r\n: \" . \" .\r\n: \" . \".\r\n: \" . . \"."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "الجيش الأمريكي يكشف عدد السفن التي أعاد توجيهها منذ الحصار على إيران",
+            "description": "أعلنت القيادة المركزية الأمريكية (سنتكوم)، مساء السبت، أنها أعادت توجيه 144 سفينة تجارية لضمان امتثالها للحصار البحري المفروض على إيران، وذلك حتى 31 أكتوبر/تشرين الأول 2026.",
+            "url": "https://arabic.cnn.com/middle-east/article/2026/11/01/centcom-iran-naval-blockade-rerouting-of-ships",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/348646.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-11-01T08:37:18Z",
+            "content": "(CNN)-- () 144 31 / 2026.\r\n () \"\" \". . . \" (CVN 73) \" -60 \" .\r\n \" \" .\r\n 25 100 .\r\n (): \" 25 \".\r\n ."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNN بالعربية",
+            "title": "كلاب الشيواوا في المكسيك تحتفل بالهالوين بأزياء تنكرية",
+            "description": "في العاصمة المكسيكية مكسيكو سيتي، احتفلت كلاب الشيواوا بالهالوين، إذ اجتمع مئات من أصحابها في حديقة تشابولتيبيك لاستعراض حيواناتهم الأليفة بأزياء تنكرية ملونة ومرحة.",
+            "url": "https://arabic.cnn.com/travel/video/2026/11/01/v204542-chihuahuas-halloween-costumes-mexico",
+            "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/11/01/images/348625.jpg",
+            "publishedAt": "2026-11-01T07:13:10Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "عدوى الاحتجاجات تصل ألمانيا تزامناً مع مسيرات جديدة في فرنسا",
+            "description": "انتقلت الاحتجاجات المنددة بارتفاع تكاليف المعيشة -والتي بدأت في فرنسا- إلى ألمانيا، حيث شهدت البلاد، السبت، مظاهرات تزامنت مع احتفالات \"الهالوين\"، وشارك فيها عشرات الآلاف في مختلف أنحاء البلاد.",
+            "url": "https://arabic.cnn.com/world/article/2026/11/01/protests-europe-germany-halloween",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/348630.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-10-31T22:49:04Z",
+            "content": "(CNN)--  - - \"\" .\r\n \" !\" (Gen Z has got this!) . .\r\n .\r\n \" \".\r\n . \" ... \".\r\n () \"\" (Zeil) . .\r\n \" \" (Gen Z) \"\" .\r\n : \" \". \"\".\r\n \"\" (Kurfürstendamm) . \r\n .\r\n \" \" \" \" 17 24 / . .\r\n 320 70 . 550 17 / 41… [+229 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Mostafa Salem, Tala Alrajjal and Tamara Almoayed CNN",
+            "title": "Trump's midterm deadline has the Middle East bracing for another round of war",
+            "description": "Black smoke and flames rise from an oil facility in an industrial area in southern Riyadh, Saudi Arabia, which has found itself under attack from the Iran-allied Houthis. - STR/AP\r\n\nWith little transparency from Washington and warmongering from Tehran, people…",
+            "url": "https://www.cnn.com/2026/10/31/middleeast/gulf-braces-us-midterms-intl",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26276415435704.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-10-31T17:49:31Z",
+            "content": "With little transparency from Washington and warmongering from Tehran, people across the Middle East have been left anxious and confused, scanning for signals on whether the conflict between Iran and… [+9136 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNN بالعربية",
+            "title": "\"أعيدوه إلى حيث أتى\".. ترامب يصعّد هجومه على عبدالرحمن السيد",
+            "description": "واصل الرئيس الأمريكي، دونالد ترامب، هجماته على المرشح الديمقراطي لمجلس الشيوخ عن ولاية ميشيغان، عبدالرحمن السيد، خلال تجمع انتخابي بولاية فلوريدا، الجمعة، وحث الناخبين على \"إعادته إلى حيث أتى\"، على الرغم من أن السيد وُلد ونشأ في ميشيغان.",
+            "url": "https://arabic.cnn.com/world/video/2026/10/31/v204528-trump-attacks-el-sayed-back-to-where-he-came-from-digvid",
+            "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_5992,h_3370,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/10/31/images/348608.jpg",
+            "publishedAt": "2026-10-31T13:22:10Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "\"يمكنك رؤية كل شيء\" بأمريكا الشمالية أما خارجها فستنتظر طويلاً",
+            "description": "يحقق الفيلم الوثائقي \"يمكنك رؤية كل شيء\" من إخراج ناثان فيلدر ولانس أوبنهايم نجاحاً كبيراً في شباك التذاكر بالولايات المتحدة وكندا، ويحظى بإشادة النقاد، كما أصبح حديث الناس على نطاق واسع",
+            "url": "https://arabic.cnn.com/entertainment/article/2026/10/31/criticism-over-slow-rollout-of-you-can-see-everything-outside-north-america",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/348605.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-10-31T12:43:27Z",
+            "content": "(CNN)-- \" \"  . \" \".\r\n 39 ( ) .\r\n .\r\n 93 ( 150 ) . : \" . : ! ! \".\r\n \" \".\r\n . .\r\n . 20 / 30 /2026.\r\n . 30 - 12 / -: \" . \".\r\n\"\"\r\n - - \"A24\" 3 . \r\n - -: \" . \".\r\n \" \" 10 300 \"A24\". \"\" / . .\r\n\"A24\": \" 6. .… [+176 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jason Ma",
+            "title": "Fed Chair Kevin Warsh is actually managing U.S. debt costs not inflation, economist says, as interest rates threaten to top GDP growth soon",
+            "description": "\"We’re not in hawkish or dovish land. What’s happening is yield curve management, which itself is a function of how precarious the U.S. debt picture is.\"",
+            "url": "https://fortune.com/2026/11/01/fed-chair-kevin-warsh-treasury-bond-yield-curve-control-debt-costs-inflation-interest-rates-gdp-growth/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2301908904-e1793567712831.jpg?resize=1200,600",
+            "publishedAt": "2026-11-01T23:07:18Z",
+            "content": "Trying to pin down Kevin Warsh as a hawk or a dove has been tricky with his statements and actions puzzling Wall Street. As President Donald Trumps hand-picked Federal Reserve chairman, Warsh was exp… [+4581 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sam Beltran",
+            "title": "2026 was meant to be the Philippines’ year—yet the country remains stuck in an ‘recurring cycle of underachievement’",
+            "description": "What was meant to be a breakout year, highlighted by the Philippines’ turn as ASEAN chair, has instead become a case study in how it keeps falling short.",
+            "url": "https://fortune.com/2026/11/01/philippines-2027-growth-test/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2296960755-e1793290289668.jpg?resize=1200,600",
+            "publishedAt": "2026-11-01T22:00:00Z",
+            "content": "When the Philippines took over from Malaysia as chair of the Association of Southeast Asian Nations (ASEAN), expectations ran high that the country could use its one-year term to attract investment a… [+7692 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jason Ma",
+            "title": "As Trump eyes new attack, Iran vows to retaliate beyond the Mideast and target financial assets, while oil markets brace for generational damage",
+            "description": "On Saturday, Ayatollah Mojtaba Khamenei warned Iran’s response would be \"without any geographical limitations.\"",
+            "url": "https://fortune.com/2026/11/01/iran-war-retaliation-financial-assets-oil-markets-generational-damage-trump-midterm-elections/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/10039405-e1793557380853.jpg?resize=1200,600",
+            "publishedAt": "2026-11-01T20:11:56Z",
+            "content": "The clock is ticking toward a new round of fighting in the U.S.-Iran war, but this time the damage could be much more widespread, stretching to new regions and different types of targets.President Do… [+4385 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jason Ma",
+            "title": "Soaring health insurance costs are quietly preventing wages from rising higher, while workers also shoulder a larger share of premiums, economist says",
+            "description": "If employer contributions had instead grown at 3%, which was the pace a few years ago, wage growth would be about 0.2-0.3 percentage points faster today.",
+            "url": "https://fortune.com/2026/11/01/health-insurance-costs-wage-gains-premiums-obamacare-aca-plans-open-enrollment/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2211388790-e1793549282957.jpg?resize=1200,600",
+            "publishedAt": "2026-11-01T17:34:29Z",
+            "content": "Open enrollment season for health care plans is about to begin, and many Americans may get sticker shock after seeing how much premiums will rise. But the rising cost of insurance is also quietly ero… [+3295 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Catherina Gioino",
+            "title": "You should pick your credit card perks like Warren Buffett picks his stocks, TD Bank exec says",
+            "description": "The billionaire’s philosophy for preaching the ways of compound interest might also apply to how many credit cards you have in your wallet.",
+            "url": "https://fortune.com/article/how-to-pick-credit-card-points-for-best-rewards-like-warren-buffet/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-94814136-1.jpg?resize=1200,600",
+            "publishedAt": "2026-11-01T14:26:34Z",
+            "content": "If youre a Boglehead like myself, you can talk endlessly about the compounding powers of the three-fund lazy portfolio: some bonds, some domestic stocks, and some international ones. Set it and forge… [+7265 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sydney Lake",
+            "title": "Michael Dell turned $1,000 and a college dorm room into a $302 billion company. His advice to founders seeking validation: ‘Don’t go ask’",
+            "description": "Before he built a tech empire, Dell was a teenager selling newspaper subscriptions to newlyweds he tracked down through marriage records. He says the same appetite for risk drove everything that followed.",
+            "url": "https://fortune.com/article/michael-dell-1000-dorm-room-302-billion-company-founder-advice-dont-ask/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2076701879-e1763398555577.jpg?resize=1200,600",
+            "publishedAt": "2026-11-01T14:22:26Z",
+            "content": "Some of the most successful tech companies in U.S. history started from humble beginnings. Steve Jobs cofounded Apple in a garageand Dells founder started his $302 billion legacy from his dorm room. … [+5039 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sasha Rogelberg",
+            "title": "Gen X feels worse about the economy than Gen Z and millennials—and more than 70% fear running out of money more than death",
+            "description": "The generations who were supposed to have it figured out are the ones panicking about money.",
+            "url": "https://fortune.com/article/why-does-gen-x-feels-worse-about-the-economy-than-gen-z-and-millennials/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2267487789-e1786108860886.jpg?resize=1200,600",
+            "publishedAt": "2026-11-01T14:19:26Z",
+            "content": "Generation X spent three decades being defined by its own indifferencethe slacker generation, too disengaged to bother with the culture wars being fought around it. Baby boomers, meanwhile, are the g… [+7729 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Preston Fore",
+            "title": "Anthropic’s potential $2 trillion IPO could turn staff into millionaires—but the AI firm is asking candidates what they’d do if stock fell to zero",
+            "description": "With an IPO looming, Anthropic CEO Dario Amodei—who has a net worth of $13.6 billion—has reportedly expressed concerns that AI workers are prioritizing money over mission.",
+            "url": "https://fortune.com/article/anthropic-ipo-could-create-millionaires-but-company-worried-about-money-over-mission-ai-firm-billionaire-ceo-dario-amodei/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2280291162-e1787668428608.jpg?resize=1200,600",
+            "publishedAt": "2026-11-01T14:15:47Z",
+            "content": "As Anthropic targets a November IPO at a $1.5 trillion to $2 trillion valuationpotentially eclipsing SpaceXs recordthe blockbuster debut could mint a new class of wealthy tech workers among its more … [+4331 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Tejpaul Bhatia",
+            "title": "Nebex CEO: NASA wants a commercial space economy. Here’s how it can enable one",
+            "description": "NASA has the leverage to build a real space market.",
+            "url": "https://fortune.com/2026/11/01/nasa-commercial-space-economy-iss-replacement-isaacman/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/tejpaul-bhatia.jpg?resize=1200,600",
+            "publishedAt": "2026-11-01T13:30:00Z",
+            "content": "In July, SpaceX stopped accepting new rideshare bookings beyond late 2028. In October, NASA released its request for proposals for commercial space stations to succeed the soon-to-be de-orbited Inter… [+6070 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Nick Lichtenberg",
+            "title": "‘The best thing that you can do for your career is to make yourself redundant’: Inside Stellantis’ AI push after the ‘starting gun went off’",
+            "description": "That’s the advice of Stellantis’ CTO, who plans to hire hundreds more anyway. AI is shrinking weeks into days, but it can't tell you what car to make.",
+            "url": "https://fortune.com/2026/11/01/stellantis-detroit-ai-best-thing-make-yourself-redundant-chrysler/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/Untitled-1.png?resize=1200,600",
+            "publishedAt": "2026-11-01T13:30:00Z",
+            "content": "The Grand Cherokee is lined with wood paneling, its windshield is cracked, and chunks are cut out of its side-view mirrors like pierced ears. Thats where the cameras go, a grinning Joydip Saha tells … [+21101 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Josh Jacobs' lawyers call police release of previously unreported abuse allegations 'character assassination'",
+            "description": "Josh Jacobs' attorneys call the released police case file a \"character assassination\" and say the domestic abuse allegations are easily disproven.",
+            "url": "https://www.foxnews.com/outkick-sports/josh-jacobs-lawyers-call-police-release-previously-unreported-abuse-allegations-character-assassination",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/josh-jacobs-touchdown-celebration-detroit.jpg",
+            "publishedAt": "2026-11-01T23:55:22Z",
+            "content": "The attorneys representing Green Bay Packers running back Josh Jacobs admitted that the recently released police case file that includes new allegations of domestic abuse from years ago are threateni… [+5044 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Iranian ‘ghost fleet’ filmed evading US blockade en route to China, UANI says",
+            "description": "Smaller Iranian ghost fleet tankers are slipping past the U.S. naval blockade carrying sanctioned LPG fuel to China via a shadowy Malaysia anchorage.",
+            "url": "https://www.foxnews.com/world/iranian-ghost-fleet-filmed-evading-us-blockade-en-route-china-uani-says",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/uani-lpg-tanker.jpg",
+            "publishedAt": "2026-11-01T23:28:38Z",
+            "content": "Small Iranian \"ghost fleet\" tankers are slipping past the U.S. naval blockade and smuggling sanctioned liquefied petroleum gas (LPG) to China through a shadowy maritime hub off Malaysia, according to… [+8904 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "'SNL' co-host Michael Che turns Israel voter turnout into 'genocide' punchline on 'Weekend Update'",
+            "description": "Michael Che's Israel \"genocide\" punchline on \"Saturday Night Live\" drew sharp rubukes from criticis, including from Campaign Against Antisemitism and NewsBusters.",
+            "url": "https://www.foxnews.com/media/snl-co-host-michael-che-turns-israel-voter-turnout-genocide-punchline-weekend-update",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Michael-Che-and-Israeli-flag.png",
+            "publishedAt": "2026-11-01T23:00:32Z",
+            "content": "On NBC's \"Saturday Night Live,\" \"Weekend Update\" co-host Michael Che joked about genocide while discussing voter turnout in Israel's elections, referencing voters on the right and left of the country… [+3484 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Tampa Bay Buccaneers win NFL game without completing a pass, first time that's happened in half a century",
+            "description": "Baker Mayfield attempted three passes with zero completions as the Tampa Bay Buccaneers rushed for a club-record 324 yards in a rain-soaked shutout.",
+            "url": "https://www.foxnews.com/outkick-sports/tampa-bay-buccaneers-win-nfl-game-without-completing-pass-first-time-happened-half-century",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/bucky-irving-tampa-bay-buccaneers-falcons.jpg",
+            "publishedAt": "2026-11-01T22:32:37Z",
+            "content": "The joke will be that the Tampa Bay Buccaneers set back the modern-day NFL offense by decades on Sunday by failing to complete even one pass, something which had happened only one other time during t… [+3269 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Coca-Cola CEO says Diet Coke is back, takes on 'fridge cigarette' moniker",
+            "description": "Diet Coke sales surged 6% globally as the \"fridge cigarette\" trend raises concerns about dopamine, artificial sweeteners and emotional dependency patterns.",
+            "url": "https://www.foxnews.com/food-drink/coca-cola-says-diet-coke-back-takes-fridge-cigarette-moniker",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/diet-coke-fridge-cigarette-tiktok-trend-1.jpg",
+            "publishedAt": "2026-11-01T22:23:39Z",
+            "content": "A year after Diet Coke's \"fridge cigarette\" nickname took hold on social media, Coca-Cola's CEO is weighing in and he doesn't seem bothered by it.\r\nDuring a recent interview with Yahoo Finance, Coca-… [+3546 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "DOJ set to appeal ruling in Alaska Senate race dispute over ‘Decoy Dan’",
+            "description": "A federal judge rejected the DOJ's lawsuit to delay Alaska Senate election certification over the Dan Sullivan candidate controversy.",
+            "url": "https://www.foxnews.com/politics/doj-set-appeal-ruling-alaska-senate-race-dispute-over-decoy-dan",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/trump-sullivan.jpg",
+            "publishedAt": "2026-11-01T22:16:21Z",
+            "content": "A federal judge on Sunday dismissed the Justice Departments lawsuit seeking to delay certification of Alaskas Senate election amid the \"Decoy Dan\" controversy, rejecting the Trump administrations bid… [+2377 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Jenny McCarthy living in a tent while battling ‘paranoid’ fears after mold poisoning diagnosis",
+            "description": "Jenny McCarthy says mold and mycotoxin poisoning left her living in a tent after two years of surgeries, infections and a desperate search for answers.",
+            "url": "https://www.foxnews.com/entertainment/jenny-mccarthy-living-tent-battling-paranoid-fears-mold-poisoning-diagnosis",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Jenny-McCarthy-Wahlberg.jpg",
+            "publishedAt": "2026-11-01T22:00:10Z",
+            "content": "Jenny McCarthy's two-year health nightmare left her physically exhausted, emotionally shaken and so fearful of mold exposure that she traded her home for a tent in a desperate attempt to heal.\r\nThe f… [+3784 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Martha Stewart addresses backlash after dressing as homeless person for Halloween",
+            "description": "Martha Stewart says her deleted homeless Halloween costume was meant to bring awareness, but the backlash and online criticism only intensified.",
+            "url": "https://www.foxnews.com/entertainment/martha-stewart-addresses-backlash-after-dressing-homeless-person-halloween",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/martha-stewart-3.jpg",
+            "publishedAt": "2026-11-01T21:46:28Z",
+            "content": "Martha Stewart is addressing the backlash over her controversial Halloween costume, saying she intended to \"bring more awareness\" to homelessness.\r\nThe 85-year-old businesswoman and television person… [+2853 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Savannah Guthrie makes heartbreaking plea in mom's disappearance after finding old drawing",
+            "description": "Savannah Guthrie shared her daughter's emotional drawing in a new plea for answers nine months after Nancy Guthrie vanished from her Tucson home.",
+            "url": "https://www.foxnews.com/us/savannah-guthrie-makes-heartbreaking-plea-moms-disappearance-after-finding-old-drawing",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/savannah-guthrie-mother-nancy-guthrie.jpg",
+            "publishedAt": "2026-11-01T21:45:48Z",
+            "content": "\"TODAY\" co-host Savannah Guthrie issued a new plea for information about her missing mother, Nancy Guthrie, on Sunday, nine months after the 84-year-old was abducted from her Tucson, Arizona, home.\r\n… [+4300 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Tears from teammates as immobilized Detroit Lions linebacker Jack Campbell carted off field and hospitalized",
+            "description": "Jack Campbell was left motionless after a violent tackle at Ford Field and carted off as Lions and Vikings players kneeled in an emotional scene.",
+            "url": "https://www.foxnews.com/outkick-sports/tears-teammates-immobilized-detroit-lions-linebacker-jack-campbell-carted-off-field-hospitalized",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/tj-hockenson-vikings-lions-tackle-ford-field.jpg",
+            "publishedAt": "2026-11-01T21:15:50Z",
+            "content": "There was a serious and heartbreaking scene at Ford Field on Sunday when linebacker Jack Campbell was left motionless following a violent collision on a tackle, leading to him being removed on an imm… [+2015 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Andrew Greif",
+            "title": "An NFL team just won a game without completing a pass. No, seriously.",
+            "description": "Facing the Atlanta Falcons in a game played amid a downpour, the Tampa By Buccaneers attempted only three passes. And won.",
+            "url": "https://www.nbcnews.com/sports/nfl/tampa-bay-buccaneers-atlanta-falcons-nfl-result-rcna606882",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-Bucky-Irving-buccaneers-florida-ww-1508-f983c2.jpg",
+            "publishedAt": "2026-11-01T23:30:55Z",
+            "content": "The offense run by the Tampa Bay Buccaneers on Sunday was the most predictable of the 2026 NFL season.\r\nFacing the Atlanta Falcons in a key divisional matchup of Week 8, during a game played amid a d… [+1272 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Mark Hodge, Kayla Hayempour",
+            "title": "Here’s the biggest news you missed this weekend",
+            "description": "Rep. Haley Stevens, D-Mich., endorsed Republican Senate candidate Mike Rogers on Sunday, a major shake-up in the final stages of a top battleground race that could determine which party controls the Senate.",
+            "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-november-1-rcna606569",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-Stevens-Rogers-aa-1230-b6c57f.jpg",
+            "publishedAt": "2026-11-01T23:00:40Z",
+            "content": "Rep. Haley Stevens, D-Mich., endorsed Republican Senate candidate Mike Rogers on Sunday, a major shake-up in the final stages of a top battleground race that could determine which party controls the … [+7992 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Andrew Greif",
+            "title": "The last undefeated NFL team in 2026 has lost",
+            "description": "Eight weeks into the NFL season, there are no longer any undefeated teams.  The Detroit Lions’ 19-15 win Sunday over Minnesota ended the Vikings’ (6-1) unbeaten start.",
+            "url": "https://www.nbcnews.com/sports/nfl/nfl-undefeated-team-minnesota-vikings-detroit-lions-rcna606888",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-kyler-murray-vikings-nfl-ww-1442-fd1fdc.jpg",
+            "publishedAt": "2026-11-01T22:47:26Z",
+            "content": "Detroit scored the go-ahead touchdown four minutes later, after a long drive was ended by a 7-yard touchdown catch by Jameson Williams. Minnesotas attempt to take the lead back ended meekly, after th… [+1667 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Sahil Kapur",
+            "title": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
+            "description": "Kimi Antonelli clinched the Formula 1 world championship Sunday, becoming the youngest driver in the sport’s history to win the title at just 20.",
+            "url": "https://www.nbcnews.com/sports/formula-1/kimi-antonelli-becomes-youngest-formula-1-champion-ever-20-years-old-rcna606726",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261031-Kimi-Antonelli-ch-1503-4c9290.jpg",
+            "publishedAt": "2026-11-01T22:25:42Z",
+            "content": "Kimi Antonelli clinched the Formula 1 world championship Sunday, becoming the youngest driver in the sports history to win the title at just 20.\r\nThe Italian prodigy secured the title at the Mexican … [+6300 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Angela Yang",
+            "title": "‘Heat’ director Michael Mann injured in accidental weapon discharge at LA gun range",
+            "description": "“Heat” director Michael Mann was hospitalized this weekend after an accidental gun discharge at a gun range in Los Angeles.",
+            "url": "https://www.nbcnews.com/news/us-news/michael-mann-injury-shooting-gun-range-rcna606851",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-Michael-Mann-aa-205-7d0a18.jpg",
+            "publishedAt": "2026-11-01T19:15:52Z",
+            "content": "Heat director Michael Mann was hospitalized this weekend after an accidental gun discharge at a gun range in Los Angeles.\r\nThe incident resulted in a minor, subcutaneous injury to Mann, according to … [+1432 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Gary Grumbach, Alexandra Marquez",
+            "title": "Federal judge dismisses Trump attempt to interfere in Alaska Senate race",
+            "description": "A federal judge in Alaska dismissed the Trump’s civil lawsuit against the state, which sought to separate and preserve certain ballots in the state’s upcoming Senate election",
+            "url": "https://www.nbcnews.com/politics/2026-election/federal-judge-dismisses-trump-attempt-ballots-alaska-senate-race-rcna606838",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260818-dan-sullivan-alaksa-mn-1250-eebf1e.jpg",
+            "publishedAt": "2026-11-01T19:03:25Z",
+            "content": "A federal judge in Alaska on Sunday dismissed the Trump administrations lawsuit seeking to separate and preserve certain ballots in the states upcoming Senate election, where GOP Sen. Dan Sullivan fa… [+2210 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Angela Yang",
+            "title": "Martha Stewart responds to backlash over ‘hungry’ homeless Halloween costume",
+            "description": "Martha Stewart on Sunday responded to backlash about her Halloween costume, saying she was “distressed” to learn that her outfit, which depicted a “hungry” homeless person, had caused offense.",
+            "url": "https://www.nbcnews.com/news/us-news/martha-stewart-backlash-homeless-halloween-costume-rcna606837",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-martha-stewart-aa-113-9b7a05.jpg",
+            "publishedAt": "2026-11-01T19:00:40Z",
+            "content": "Martha Stewart on Sunday responded to backlash about her Halloween costume, saying she was distressed to learn that her outfit, which depicted a hungry homeless person, had caused offense.\r\nStewart, … [+2781 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Frank Thorp V, Alexandra Marquez",
+            "title": "Sen. Chris Murphy hospitalized after stroke",
+            "description": "Sen. Chris Murphy, D-Conn., was hospitalized Saturday after a stroke, a spokesperson for the senator said on Sunday.",
+            "url": "https://www.nbcnews.com/politics/congress/chris-murphy-hospitalized-stroke-recovery-rcna606834",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-Connecticut-Chris-Murphy-aa-1253-a9b54d.jpg",
+            "publishedAt": "2026-11-01T18:01:47Z",
+            "content": "Sen. Chris Murphy, D-Conn., was hospitalized Saturday after a stroke, a spokesperson for the senator said Sunday.\r\nThe senator started experiencing numbness in his arm while at his sons hockey game, … [+1017 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Megan Brand",
+            "title": "Rep. Haley Stevens endorses GOP candidate Mike Rogers in Michigan Senate race",
+            "description": "Rep. Haley Stevens, D-Mich., endorsed Republican Senate candidate Mike Rogers on Sunday, a major shakeup in the final stages of a top battleground race that could determine which party controls the Senate.",
+            "url": "https://www.nbcnews.com/politics/2026-election/haley-stevens-endorses-gop-mike-rogers-michigan-senate-race-el-sayed-rcna606831",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-Stevens-Rogers-aa-1230-b6c57f.jpg",
+            "publishedAt": "2026-11-01T17:49:44Z",
+            "content": "Rep. Haley Stevens, D-Mich., endorsed Republican Senate candidate Mike Rogers on Sunday, a major shakeup in the final stages of a top battleground race that could determine which party controls the S… [+2295 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Freddie Clayton",
+            "title": "Israel’s president says parties need to engage with ‘open heart’ to avoid fresh election",
+            "description": "Israeli President Isaac Herzog has urged the country’s political parties to enter negotiations on forming a new government with an “open heart,” as he prepares to consult with factions on a path forward after an uncertain election result.",
+            "url": "https://www.nbcnews.com/world/israel/israel-president-open-heart-fresh-election-rcna606785",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-Herzog-aa-1017-8f80f2.jpg",
+            "publishedAt": "2026-11-01T16:26:04Z",
+            "content": "Israeli President Isaac Herzog has urged the countrys political parties to enter negotiations on forming a new government with an open heart, as he prepares to consult with factions on a path forward… [+4905 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O’Brien",
+            "title": "NASA hopes the commercial space industry can help save Hubble",
+            "description": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit …",
+            "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-01T21:09:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Hubble Space Telescope will come crashing to Earth sometime in the 2030s without a boost.\r\nThe Hubble Space Telescope will come crashing to Earth sometime in… [+2331 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O’Brien",
+            "title": "Flock keeps ignoring requests to cancel its contracts",
+            "description": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to t…",
+            "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-01T19:58:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nCities are canceling Flock contracts, but the company wont take them down and sometimes is reinstalling them.\r\nCities are canceling Flock contracts, but the comp… [+3119 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O’Brien",
+            "title": "Apple’s HomeView could add security camera features",
+            "description": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as priva…",
+            "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6101.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-01T17:16:07Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nCode strings in HomeViews software suggest Apple could launch a Secure Video feature soon.\r\nCode strings in HomeViews software suggest Apple could launch a Secur… [+2371 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O’Brien",
+            "title": "A fully playable version of Portal prequel F-Stop leaked",
+            "description": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparentl…",
+            "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB376_VALVE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-01T16:22:40Z",
+            "content": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game… [+484 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O’Brien",
+            "title": "North Korea linked to massive Binance crypto heist",
+            "description": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and prepar…",
+            "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-01T14:33:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe FBI says that malicious actors from North Korea stole $6.3 billion worth of Crypto from Binance customers.\r\nThe FBI says that malicious actors from North Kor… [+2467 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jennifer Pattison Tuohy",
+            "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+            "description": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff…",
+            "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268839_HomePod_mini_2_JTuohy_0009.jpg?quality=90&strip=all&crop=0%2C19.336604742637%2C80.59453125%2C63.294399383614&w=1200",
+            "publishedAt": "2026-11-01T14:05:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Mini is faster, quieter, and gorgeous in green, but its upgraded Mac speaker feature didnt work for me.\r\nIf you buy something from a link, The Verge may … [+8479 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O’Brien",
+            "title": "Get in the spirit with these horrors from YouTube",
+            "description": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone he…",
+            "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/bloody-youtube-logo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-31T21:06:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGet in the spirit with these horrors from YouTube\r\nClose out the Halloween season with these creepy, weird, and unsettling videos from YouTube.\r\nby\r\nTerrence O'B… [+3923 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Verge Staff, Nathan Edwards",
+            "title": "Keyboards of The Verge",
+            "description": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboar…",
+            "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268834_Keyboards_of_the_Verge_CVirginia4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-31T19:17:51Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nFrom the strictly utilitarian to the ergonomic to the obsessive, these are the keyboards we use every day.\r\nIf you buy something from a link, The Verge may earn … [+17173 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O’Brien",
+            "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+            "description": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering …",
+            "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK428_CRYPTO_3_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-31T18:40:32Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMost of the $6.3 billion in crypto stolen from Binance users has been restored.\r\nMost of the $6.3 billion in crypto stolen from Binance users has been restored.\r… [+1911 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O’Brien",
+            "title": "Happy Pikmin Day Eve",
+            "description": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom,…",
+            "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/7-1lQh551UY-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-10-31T17:50:12Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNintendo is celebrating the first annual Pikmin Day by debuting a new series of short films.\r\nNintendo is celebrating the first annual Pikmin Day by debuting a n… [+2209 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Connor Greene",
+            "title": "Top Trump Officials Are Hitting the Campaign Trail Ahead of the Midterms. Are They Allowed To?",
+            "description": "Legal experts and advocacy groups contend that in seeking to boost Republicans ahead of the midterms, members of the Administration have violated a decades-old law.",
+            "url": "https://time.com/article/2026/11/01/trump-administration-officials-midterm-elections-hatch-act/",
+            "urlToImage": "https://static.time.com/v3/assets/bltea6093859af6183b/blt97488bea2f3f0e52/6ae4ea4b22fa530483675805/GettyImages-2299559904_(1).jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
+            "publishedAt": "2026-11-01T12:00:04Z",
+            "content": "The flurry of recent complaints against the Trump Administration are far from the first instances in which the President and his aides have come under fire for alleged Hatch Act violations.\r\nAn OSC r… [+794 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Dr. Shravani Durbhakula and Jeremy Kourvelas",
+            "title": "Why Doctors Are Last to Know What’s in the Drug Supply",
+            "description": "The FDA should create an expedited pathway for clinical tests targeting emerging drug threats, write Dr. Shravani Durbhakula and Jeremy Kourvelas.",
+            "url": "https://time.com/article/2026/11/01/why-doctors-are-last-to-know-what-s-in-the-drug-supply/",
+            "urlToImage": "https://static.time.com/v3/assets/bltea6093859af6183b/blt6d4e9a9bdc90d732/6ae3500eac57f9d4423d59bb/drug-supply-testing-doctors.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
+            "publishedAt": "2026-11-01T11:00:03Z",
+            "content": "Fentanyl shows why speed matters. In early 2023, we pointed out that rapid fentanyl tests already existed outside clinical medicine, yet hospitals relied on expensive spectrometry testing that could … [+1006 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Rebecca Schneid",
+            "title": "D.C. and Virginia Join the Fight to Block Trump’s Triumphal Arch. What Happens Next?",
+            "description": "A new lawsuit adds to existing legal battles over the President’s plans to remake Washington.",
+            "url": "https://time.com/article/2026/10/31/d-c-and-virginia-join-the-fight-to-block-trump-s-triumphal-arch-what-happens-next-/",
+            "urlToImage": "https://static.time.com/v3/assets/bltea6093859af6183b/blt736c7b3b6bf8e92d/6ae6450e0fe27a542682b65d/GettyImages-2300894874.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
+            "publishedAt": "2026-10-31T19:28:26Z",
+            "content": "The arch is a generational national defense opportunity to mitigate these evolving threats, Hegseth wrote in his declaration. \r\nThe National Capital Planning Commission (NCPC), a federal review panel… [+807 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Rebecca Schneid",
+            "title": "Americans Lost Nearly $18 Billion Last Year to Cyberscams. Is Washington Doing Enough to Help Them Get It Back?",
+            "description": "A Congressional investigation identifies gaps in federal efforts to help Americans recover billions of dollars lost to scammers online.",
+            "url": "https://time.com/article/2026/10/31/americans-lost-nearly-18-billion-last-year-to-cyberscams-is-washington-doing-enough-to-help-them-get-it-back-/",
+            "urlToImage": "https://static.time.com/v3/assets/bltea6093859af6183b/blt39be7cc1b8b06346/6ae4e559376c360bbd0d1310/GettyImages-2288050691.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
+            "publishedAt": "2026-10-31T12:30:00Z",
+            "content": "A more coordinated reporting system could help researchers and advocates better assess the scale of the problem. Another benefit would be helping the public stay informed about potential schemes, all… [+955 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Simmone Shah",
+            "title": "Why You Shouldn't Toss Your Old Halloween Pumpkins In The Trash",
+            "description": "Millions of pumpkins need to be disposed of after Halloween.",
+            "url": "https://time.com/article/2026/10/31/compost-halloween-pumpkins/",
+            "urlToImage": "https://static.time.com/v3/assets/bltea6093859af6183b/blt953e7b5d8ba5e15c/6ae4becd9c5f313475eb3a02/pumpkin-US.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
+            "publishedAt": "2026-10-31T12:00:03Z",
+            "content": "Why shouldnt you trash your pumpkin?\r\nWhen pumpkins are sent to landfill, they release methane, a potent greenhouse gas that, over a 20 year period, is around 80 times more powerful at trapping heat … [+946 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Coltan Scrivner",
+            "title": "Why We Like to Be Scared",
+            "description": "The world has always been full of things that frighten us. One way we work through these fears is by watching horror, writes Coltan Scrivner.",
+            "url": "https://time.com/article/2026/10/31/why-we-like-to-be-scared/",
+            "urlToImage": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc184752b2471deec/6ae4e290fd88e96f43bacaa9/Weekend_Essay-Scared.png?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
+            "publishedAt": "2026-10-31T11:00:03Z",
+            "content": "Curiosity, specifically about situations that can cause injury or death, is perfectly normal and common. Morbid curiosity motivates us to learn about dangers, something that all animals can benefit f… [+901 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Stephanie Zacharek",
+            "title": "War Is Hell—And The Mosquito Bowl Won’t Let Us Forget It",
+            "description": "Peter Berg's World War II movie is awash in violence. But when it comes to depicting war, less is often more",
+            "url": "https://time.com/article/2026/10/31/the-mosquito-bowl-review/",
+            "urlToImage": "https://static.time.com/v3/assets/bltea6093859af6183b/bltd044ca223c416096/6ae53659c44d5d5a120cb44c/MB_20251002_26313_R3.jpg?branch=production&width=7200&quality=75&auto=webp&crop=16:9",
+            "publishedAt": "2026-10-31T01:33:07Z",
+            "content": "Because the deadly battle at Okinawa is yet to come, and Berg will spare us no bloody detail. (The script was adapted from the 2022 book of the same name by Buzz Bissinger, who also wrote the book th… [+759 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Barry Levitt",
+            "title": "The True Story of Tragedy and Perseverance Behind Everest: The Other Side",
+            "description": "When tragedy struck during the filming of a mountaineering documentary, the filmmakers and subject faced a decision about whether to continue.",
+            "url": "https://time.com/article/2026/10/31/everest-the-other-side-documentary/",
+            "urlToImage": "https://static.time.com/v3/assets/bltea6093859af6183b/bltcd66b18b1ab78a76/6ae5279022fa535fb46758d6/ARC_P31036_viaJM_2018-03_Jim_Hil_Selfie_Ironclads_CO.jpg?branch=production&width=1022&quality=75&auto=webp&crop=16:9",
+            "publishedAt": "2026-10-31T00:09:18Z",
+            "content": "Unfortunately, one of the climbers on the expedition, Yukta Gurung, broke his leg on the journey up Everest. With that injury and the uneasy weather conditions, the decision was made to call the expe… [+854 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Kayti Burt",
+            "title": "Breaking Down the Supernatural Ending of Dead-End Job",
+            "description": "In this Squid Game-like fantasy horror, Lee Jae-wook stars as a jobless 30-something who takes a strange and fearsome job out of desperation.",
+            "url": "https://time.com/article/2026/10/30/dead-end-job-ending-explained/",
+            "urlToImage": "https://static.time.com/v3/assets/bltea6093859af6183b/blt73cc82034715c8ab/6ae5233842f7b16d83c4f1e9/Dead-End_Job_Unit_108_250815-060.jpg?branch=production&width=4000&quality=75&auto=webp&crop=16:9",
+            "publishedAt": "2026-10-30T23:19:21Z",
+            "content": "By the end of Dead-End Jobs first season, many questions remain about the true purpose of Spider Staffing Agency. When Hyeok-jun first encounters the organization, it is managed by Mr. S. (Badland Hu… [+795 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Belinda Luscombe",
+            "title": "'Social Media on Steroids.' Advocates for Children Call for Guardrails Around AI",
+            "description": "\"It's basically social media on steroids.”",
+            "url": "https://time.com/article/2026/10/30/ai-kids-common-sense-media/",
+            "urlToImage": "https://static.time.com/v3/assets/bltea6093859af6183b/bltfebec12b479874da/6ae4dfb2187d312c2a901514/GettyImages-2248037505.jpg?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
+            "publishedAt": "2026-10-30T21:49:25Z",
+            "content": "Panelists called for a range of protective and preventative remedies for what they described as the coming tsunami of AI, including requiring more data transparency from tech companies by enabling re… [+1495 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Daniel Dobish, USA TODAY",
+            "title": "Tyler Huntley might have turf toe, MRI set for Monday",
+            "description": "Baltimore Ravens quarterback Tyler Huntley suffered what is believed to be a turf, and he'll have an MRI Monday",
+            "url": "https://www.usatoday.com/story/sports/fantasy/player-updates/2026/11/01/tyler-huntley-might-join-starter-on-shelf-mri-set-for-monday/92556196007/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/e981fb971fd2a47995b50f0c0904a01b3b6feada220363ebcecbf8da6fb62c73/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F27657191c6e474df31f76c68706ffe56.jpg",
+            "publishedAt": "2026-11-01T23:55:13Z",
+            "content": "Baltimore Ravens quarterback Tyler Huntley (toe) suffered what is believed to be a turf toe injury in the Week 8 game against the Buffalo Bills, a source said Sunday, Nov. 1.\r\nHuntley was thrust into… [+995 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Dillon, Chiefs Wire",
+            "title": "Chiefs QB Patrick Mahomes tossed third TD pass vs. Broncos in Week 8",
+            "description": "Take a look at this video of Kansas City Chiefs QB Patrick Mahomes throwing his third touchdown pass against the Denver Broncos in Week 8.",
+            "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/11/01/patrick-mahomes-third-touchdown-pass-kansas-city-chiefs-denver-broncos-nfl-week-8/92472835007/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/c4039452f27b1870206b4c7940d57f6a6168a96da24aab57db10558dd245f487/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkansas_city_chiefs_wire_usa_today_sports_articles_178%2F797f647ea8a77487343cdcd9eed8ab17.jpg",
+            "publishedAt": "2026-11-01T23:53:33Z",
+            "content": "The Kansas City Chiefs extended their lead over the Denver Broncos to eleven points after a clutch touchdown pass from star quarterback Patrick Mahomes to veteran tight end Noah Gray in Week 8 of the… [+835 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Glenn Erby , Ravens Wire",
+            "title": "Ravens-Bills recap: Lamar Jackson injured in ugly 36-10 loss;",
+            "description": "Lamar Jackson injured his right thumb on Baltimore's first play, and the Ravens fell 36-10 to Buffalo in Week 8 for their third straight defeat",
+            "url": "https://ravenswire.usatoday.com/story/sports/nfl/ravens/2026/11/01/ravens-bills-week-8-final-score-recap-lamar-jackson-injury/92556189007/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/97bedcfb6c9c3fc3858cae2c2a57319f5418692cf17866aadb272e668c4bfb14/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbaltimore_ravens_wire_usa_today_sports_articles_532%2F1a7fdb61e4ca76bce8ef792c515198f7.jpg",
+            "publishedAt": "2026-11-01T23:53:31Z",
+            "content": "The Baltimore Ravens' hopes of ending a two-game losing streak disappeared almost as quickly as Lamar Jackson's return to the starting lineup Sunday, with the Buffalo Bills cruising to a 36-10 victor… [+2172 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Tim Piotrowski, USA TODAY",
+            "title": "T.J. Hockenson catches TD pass in Week 8",
+            "description": "Vikings TE T.J. Hockenson finds end zone for second straight game and posts 58 yards",
+            "url": "https://www.usatoday.com/story/sports/fantasy/player-updates/2026/11/01/fantasy-vikings-te-t-j-hockenson-finishs-with-four-receptions/92556150007/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/ef01ae581224a70dd68735b4d72b92af39e2dc78087818e83270926bf28e676d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F079a45f283686951056afe56197e3e86.jpg",
+            "publishedAt": "2026-11-01T23:51:47Z",
+            "content": "Minnesota Vikings TE T.J. Hockenson caught four passes for 58 yards and one touchdown against the Detroit Lions in Week 8. He was targeted five times during the game.\r\nSOURCE: USA Today\r\nWhy It Matte… [+323 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Duncan Day, Colts Wire",
+            "title": "Daniel Jones addresses effort concerns after Colts’ blowout loss",
+            "description": "Colts quarterback Daniel Jones addressed effort concerns after Indianapolis suffered a 42-7 loss to the Jacksonville Jaguars.",
+            "url": "https://coltswire.usatoday.com/story/sports/nfl/colts/2026/11/01/colts-daniel-jones-effort-comments-jaguars-loss/92555144007/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/db0e7623cac04f985f7570af1d7a02b26de52217a88c69057fa1a96428b72fb9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Findianapolis_colts_wire_usa_today_sports_articles_945%2F8b33dc7d26d33f929ee0d69c2d7addc8.jpg",
+            "publishedAt": "2026-11-01T23:50:12Z",
+            "content": "The Indianapolis Colts have much to improve on following Sunday's 42-7 loss to the Jacksonville Jaguars.\r\nAnd quarterback Daniel Jones made clear that any concerns about effort can't be overlooked.\r\n… [+918 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Phillip Jordan, Auburn Wire",
+            "title": "Ole Miss stays at No. 12 in the AP Top 25 despite beating Auburn",
+            "description": "Ole Miss beat Auburn in a convincing fashion, but the win was not impressive enough to move up in the polls.",
+            "url": "https://auburnwire.usatoday.com/story/sports/college/auburn/football/2026/11/01/ap-poll-ole-miss-stays-at-no-12-despite-beating-auburn/92554503007/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/484a8f1eaa8f69c60c1141ab793bf1264923363241f7b71b035868da4c2602fe/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fauburn_wire_usa_today_articles_537%2F942fabfa07ce2733c8bb8ec36a4e0dd6.jpg",
+            "publishedAt": "2026-11-01T23:49:33Z",
+            "content": "Many people advocated for the Auburn Tigers to earn a spot in both the US LBM Coaches Poll and the Associated Press poll after their upset win over then-No. 1 Georgia on Oct. 17.\r\nHowever, Auburn is … [+1479 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Sigler, Saints Wire",
+            "title": "NFC South standings: Week 8 gave Saints a best-case scenario",
+            "description": "Week 8 brought a best-case scenario with the New Orleans Saints resting on their bye. The NFC South is still within reach for the last-place team.",
+            "url": "https://saintswire.usatoday.com/story/sports/nfl/saints/2026/11/01/nfc-south-standings-week-8-saints-falcons-buccaneers-panthers/92555872007/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/dc588c2892f006d7aa4252915585954cf4e36d3f8c5a6cc0abe3c0ec1e99e9cd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnew_orleans_saints_wire_usa_today_sports_articles_211%2F50c2a5942c842e394b693e9e7afab97e.jpg",
+            "publishedAt": "2026-11-01T23:48:37Z",
+            "content": "Things couldn't have gone much better for the New Orleans Saints during their Week 8 bye, at least as far as the NFC South title race is concerned. While the Saints were resting, they got to watch on… [+2017 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Duncan Day, Colts Wire",
+            "title": "Colts’ Shane Steichen evaluates performance after 42-7 loss to Jaguars",
+            "description": "Shane Steichen said the Colts were outcoached and outplayed after a 42-7 loss to the Jaguars dropped Indianapolis to 2-6.",
+            "url": "https://coltswire.usatoday.com/story/sports/nfl/colts/2026/11/01/colts-shane-steichen-outcoached-jaguars-loss-reaction/92555135007/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/62056735be47a71869ee67691be169695fe0c65398e15921dbf02661418dc851/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Findianapolis_colts_wire_usa_today_sports_articles_945%2F5c4d5ab0c6e6747a478b54b7b4747821.jpg",
+            "publishedAt": "2026-11-01T23:47:23Z",
+            "content": "Shane Steichen's take on the Indianapolis Colts' latest loss left very little room for interpretation.\r\nAfter Jacksonville handed Indianapolis a 42-7 defeat Sunday, the Colts' head coach acknowledged… [+1141 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Glenn Erby , Ravens Wire",
+            "title": "Ravens QB Tyler Huntley feared to have turf toe, MRI scheduled Monday",
+            "description": "Ravens QB Tyler Huntley reportedly suffered a possible turf toe injury and will undergo an MRI Monday, with Lamar Jackson headed to injured reserve",
+            "url": "https://ravenswire.usatoday.com/story/sports/nfl/ravens/2026/11/01/ravens-tyler-huntley-turf-toe-injury-mri-lamar-jackson-ir/92556091007/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/f58c7e7b566a51c583722e44e597473a0e64274b8a18861bc83bd2aee85744de/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbaltimore_ravens_wire_usa_today_sports_articles_532%2Fd03c33e1a37f4aaa09de8aeb535ab582.jpg",
+            "publishedAt": "2026-11-01T23:45:57Z",
+            "content": "The Baltimore Ravens could be without their top two quarterbacks for an extended period after Tyler Huntley reportedly suffered a turf toe injury during Sunday's 36-10 loss to the Buffalo Bills, addi… [+4379 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Matt Erickson and Jeronimo Guerra, MMA Junkie",
+            "title": "Julian Erosa was happy to retire on a UFC snoozer until he got hit",
+            "description": "Julian Erosa had one of the better fairytale retirement endings in the UFC in recent memory when he knocked out JeongYeong Lee for a $100,000 bonus.",
+            "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/01/ufc-fight-night-las-vegas-video-julian-erosa-retirement-knockout-bonus/92551889007/",
+            "urlToImage": null,
+            "publishedAt": "2026-11-01T23:50:24Z",
+            "content": "LAS VEGAS  Julian Erosa met the media Saturday after his win over JeongYeong Lee at UFC Fight Night 292.\r\nErosa (32-13 MMA, 10-9 UFC), who was fighting in his retirement bout on the prelims at the Me… [+2296 chars]"
+        }
+    ]
 }
