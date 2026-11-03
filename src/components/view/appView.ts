@@ -10,34 +10,34 @@ export class AppView {
     private readonly sources = new Sources();
     private readonly status = new StatusDialog();
 
-    drawNews(data: EverythingResponse): void {
+    public drawNews(data: EverythingResponse): void {
         const values = data.articles ?? [];
         this.news.draw(values);
     }
 
-    drawSources(data: SourcesResponse): void {
+    public drawSources(data: SourcesResponse): void {
         const values = curateSources(data.sources ?? []);
         this.sources.draw(values);
     }
 
-    setActiveSource(): void {
+    public setActiveSource(): void {
         this.sources.setActive();
     }
 
-    clear(): void {
+    public clear(): void {
         this.news.clear();
         this.sources.clear();
     }
 
-    showLoading(message?: string): void {
+    public showLoading(message?: string): void {
         this.status.showLoading(message);
     }
 
-    showNotice(message: string, options?: NoticeOptions): void {
+    public showNotice(message: string, options?: Partial<NoticeOptions>): void {
         this.status.showNotice(message, options);
     }
 
-    hideStatus(): void {
+    public hideStatus(): void {
         this.status.close();
     }
 }

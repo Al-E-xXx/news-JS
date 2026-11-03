@@ -3,7 +3,7 @@ import { mustFind } from '../../../utils/dom';
 import './sources.css';
 
 class Sources {
-    draw(sources: Source[]): void {
+    public draw(sources: Pick<Source, 'id' | 'name'>[]): void {
         const fragment = document.createDocumentFragment();
         const sourceItemTemp = mustFind<HTMLTemplateElement>(document, '#sourceItemTemp');
 
@@ -19,7 +19,7 @@ class Sources {
         mustFind(document, '.sources').append(fragment);
     }
 
-    setActive(): void {
+    public setActive(): void {
         const container = mustFind(document, '.sources');
         const activeId = container.getAttribute('data-source');
 
@@ -28,7 +28,7 @@ class Sources {
         });
     }
 
-    clear(): void {
+    public clear(): void {
         const container = mustFind(document, '.sources');
 
         container.textContent = '';

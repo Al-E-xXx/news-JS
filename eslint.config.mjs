@@ -16,6 +16,7 @@ export default tseslint.config(
             globals: { ...globals.browser, process: 'readonly' },
         },
         rules: {
+            '@typescript-eslint/explicit-member-accessibility': 'error',
             '@typescript-eslint/no-explicit-any': 'error',
             'no-debugger': 'off',
             'no-console': 0,

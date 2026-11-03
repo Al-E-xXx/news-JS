@@ -3,11 +3,11 @@ import type { ResponseCallback } from './loader';
 import AppLoader, { type DataMode } from './appLoader';
 
 class AppController extends AppLoader {
-    constructor(mode: DataMode = 'demo') {
+    public constructor(mode: DataMode = 'demo') {
         super(mode);
     }
 
-    getSources(callback: ResponseCallback<SourcesResponse>): Promise<void> {
+    public getSources(callback: ResponseCallback<SourcesResponse>): Promise<void> {
         return super.getResp(
             {
                 endpoint: 'sources',
@@ -16,7 +16,7 @@ class AppController extends AppLoader {
         );
     }
 
-    getNews(e: MouseEvent, callback: ResponseCallback<EverythingResponse>): Promise<void> {
+    public getNews(e: MouseEvent, callback: ResponseCallback<EverythingResponse>): Promise<void> {
         const newsContainer = e.currentTarget;
 
         if (!(newsContainer instanceof Element)) {

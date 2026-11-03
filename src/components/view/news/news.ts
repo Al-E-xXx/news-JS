@@ -3,7 +3,7 @@ import { mustFind } from '../../../utils/dom';
 import './news.css';
 
 class News {
-    draw(articles: Article[]): void {
+    public draw(articles: Article[]): void {
         const news = articles.length >= 10 ? articles.filter((_item, idx) => idx < 10) : articles;
 
         const newsContainer = mustFind(document, '.news');
@@ -48,7 +48,7 @@ class News {
         newsContainer.appendChild(fragment);
     }
 
-    clear(): void {
+    public clear(): void {
         mustFind(document, '.news').textContent = '';
     }
 }

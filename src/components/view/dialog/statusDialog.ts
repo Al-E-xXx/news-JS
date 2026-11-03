@@ -5,8 +5,8 @@ const DEFAULT_LOADING_TEXT = 'Loading...';
 const DEFAULT_RETRY_TEXT = 'Try again';
 
 export interface NoticeOptions {
-    retryLabel?: string;
-    onRetry?: () => void;
+    retryLabel: string;
+    onRetry: () => void;
 }
 
 export class StatusDialog {
@@ -17,7 +17,7 @@ export class StatusDialog {
 
     private retryHandler: (() => void) | null = null;
 
-    constructor() {
+    public constructor() {
         this.closeButton.addEventListener('click', () => this.close());
         this.retryButton.addEventListener('click', () => {
             const handler = this.retryHandler;
@@ -37,7 +37,7 @@ export class StatusDialog {
         });
     }
 
-    showLoading(message = DEFAULT_LOADING_TEXT): void {
+    public showLoading(message = DEFAULT_LOADING_TEXT): void {
         this.retryHandler = null;
         this.retryButton.hidden = true;
         this.textElement.textContent = message;
@@ -45,7 +45,10 @@ export class StatusDialog {
         this.open();
     }
 
-    showNotice(message: string, { retryLabel = DEFAULT_RETRY_TEXT, onRetry }: NoticeOptions = {}): void {
+    public showNotice(
+        message: string,
+        { retryLabel = DEFAULT_RETRY_TEXT, onRetry }: Partial<NoticeOptions> = {}
+    ): void {
         this.retryHandler = onRetry ?? null;
         this.retryButton.hidden = onRetry === undefined;
         this.retryButton.textContent = retryLabel;
@@ -54,7 +57,7 @@ export class StatusDialog {
         this.open();
     }
 
-    close(): void {
+    public close(): void {
         this.retryHandler = null;
 
         if (this.dialog.open) {

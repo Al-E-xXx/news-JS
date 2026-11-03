@@ -3,22 +3,22 @@ export class TimeoutSignal {
     private readonly timer: ReturnType<typeof setTimeout>;
     private expired = false;
 
-    constructor(timeoutMs: number) {
+    public constructor(timeoutMs: number) {
         this.timer = setTimeout(() => {
             this.expired = true;
             this.controller.abort(new DOMException(`Request timed out after ${timeoutMs} ms`, 'TimeoutError'));
         }, timeoutMs);
     }
 
-    get signal(): AbortSignal {
+    public get signal(): AbortSignal {
         return this.controller.signal;
     }
 
-    get timedOut(): boolean {
+    public get timedOut(): boolean {
         return this.expired;
     }
 
-    dispose(): void {
+    public dispose(): void {
         clearTimeout(this.timer);
     }
 }

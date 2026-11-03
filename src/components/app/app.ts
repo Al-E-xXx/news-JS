@@ -26,7 +26,7 @@ class App {
     private inFlightProbe: Promise<boolean> | null = null;
     private readyHintTimer: ReturnType<typeof setTimeout> | null = null;
 
-    start(): void {
+    public start(): void {
         mustFind(document, '.sources').addEventListener('click', (event) => this.onSourceClick(event));
 
         this.initModeSwitch();
@@ -230,6 +230,10 @@ class App {
 }
 
 function describeFailure(error: unknown): string {
+    if (error instanceof LoadError) {
+        return error.code ? `${error.message} (${error.code})` : error.message;
+    }
+
     return error instanceof Error ? error.message : 'unexpected error';
 }
 

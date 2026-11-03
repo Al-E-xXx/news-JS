@@ -1,3 +1,5 @@
+import type { ApiErrorResponse } from '../../models/response';
+import { ApiResponseStatus } from '../../models/response';
 import TimeoutSignal from './timeoutSignal';
 
 type QueryValue = string | number | boolean;
@@ -13,9 +15,10 @@ interface GetRequest {
 }
 
 export class LoadError extends Error {
-    constructor(
+    public constructor(
         message: string,
-        readonly status?: number
+        public readonly status?: number,
+        public readonly code?: string
     ) {
         super(message);
         this.name = 'LoadError';
@@ -30,12 +33,12 @@ enum HttpErrorStatus {
 }
 
 class Loader {
-    constructor(
+    public constructor(
         private readonly baseLink: string,
-        private readonly options: QueryParams
+        private readonly options: Readonly<QueryParams>
     ) {}
 
-    getResp<TResponse>(
+    public getResp<TResponse>(
         { endpoint, options = {} }: GetRequest,
         callback: ResponseCallback<TResponse> = () => {
             console.error('No callback for GET response');
@@ -44,16 +47,32 @@ class Loader {
         return this.load('GET', endpoint, callback, options);
     }
 
-    errorHandler(res: Response): void {
+    public async errorHandler(res: Response): Promise<void> {
         if (res.ok) {
             return;
         }
+
+        const apiError = await this.readApiError(res);
 
         if (res.status === HttpErrorStatus.Unauthorized || res.status === HttpErrorStatus.NotFound) {
             console.log(`Sorry, but there is ${res.status} error - check the request and the api key`);
         }
 
-        throw new LoadError(`Request failed with status ${res.status}`, res.status);
+        throw new LoadError(
+            apiError ? apiError.message : `Request failed with status ${res.status}`,
+            res.status,
+            apiError?.code
+        );
+    }
+
+    private async readApiError(res: Response): Promise<ApiErrorResponse | null> {
+        try {
+            const body: unknown = await res.json();
+
+            return isApiErrorResponse(body) ? body : null;
+        } catch {
+            return null;
+        }
     }
 
     private makeQuery(options: QueryParams): string {
@@ -85,7 +104,7 @@ class Loader {
                 signal: timeout.signal,
             });
 
-            this.errorHandler(response);
+            await this.errorHandler(response);
             callback((await response.json()) as TResponse);
         } catch (error) {
             if (error instanceof LoadError) {
@@ -101,6 +120,20 @@ class Loader {
             timeout.dispose();
         }
     }
+}
+
+function isApiErrorResponse(value: unknown): value is ApiErrorResponse {
+    if (typeof value !== 'object' || value === null) {
+        return false;
+    }
+
+    const candidate: Partial<ApiErrorResponse> = value;
+
+    return (
+        candidate.status === ApiResponseStatus.Error &&
+        typeof candidate.code === 'string' &&
+        typeof candidate.message === 'string'
+    );
 }
 
 export default Loader;
