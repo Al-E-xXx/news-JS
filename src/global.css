@@ -44,6 +44,23 @@ header h1 {
         align-items: center;
         text-align: center;
     }
+
+    .footer__author {
+      order: 1;
+    }
+
+    .footer__rss-logo {
+      order: 2;
+    }
+
+    .footer__credits {
+      order: 3;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+      opacity: 0.3;
+    }
 }
 
 .mode-switch {
